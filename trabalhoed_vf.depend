@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1542742643 source:c:\trabalhoed_vf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"trabalhoed_vf.h"
+
+1542739045 c:\trabalhoed_vf\trabalhoed_vf.h
+
+1542751182 source:c:\trabalhoed_vf\trabalhoed_vf.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"trabalhoed_vf.h"
+
+1543205797 source:c:\users\gabri\downloads\trabalhoed_vf (2)\trabalhoed_vf\trabalhoed_vf.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"trabalhoed_vf.h"
+
+1543205796 c:\users\gabri\downloads\trabalhoed_vf (2)\trabalhoed_vf\trabalhoed_vf.h
+
+1543205232 source:c:\users\gabri\downloads\trabalhoed_vf (2)\trabalhoed_vf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"trabalhoed_vf.h"
+

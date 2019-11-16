@@ -1,0 +1,5000 @@
+Frase: A series of escapades demonstrating the adage that what is good for the goose is also good for the gander , some of which occasionally amuses but none of which amounts to much of a story .	
+Escore: 0
+Comparações ABP: 1014
+Comparações AVL: 830
+
+Frase: This quiet , introspective and entertaining independent is worth seeking .	
+Escore: 2
+Comparações ABP: 254
+Comparações AVL: 218
+
+Frase: Even fans of Ismail Merchant 's work , I suspect , would have a hard time sitting through this one .	
+Escore: 1
+Comparações ABP: 428
+Comparações AVL: 422
+
+Frase: A positively thrilling combination of ethnography and all the intrigue , betrayal , deceit and murder of a Shakespearean tragedy or a juicy soap opera .	
+Escore: -1
+Comparações ABP: 674
+Comparações AVL: 530
+
+Frase: Aggressive self-glorification and a manipulative whitewash .	
+Escore: 0
+Comparações ABP: 152
+Comparações AVL: 158
+
+Frase: A comedy-drama of nearly epic proportions rooted in a sincere performance by the title character undergoing midlife crisis .	
+Escore: 0
+Comparações ABP: 536
+Comparações AVL: 436
+
+Frase: Narratively , Trouble Every Day is a plodding mess .	
+Escore: 0
+Comparações ABP: 176
+Comparações AVL: 200
+
+Frase: The Importance of Being Earnest , so thick with wit it plays like a reading from Bartlett 's Familiar Quotations	
+Escore: 1
+Comparações ABP: 412
+Comparações AVL: 444
+
+Frase: But it does n't leave you with much .	
+Escore: 0
+Comparações ABP: 244
+Comparações AVL: 218
+
+Frase: You could hate it for the same reason .	
+Escore: 0
+Comparações ABP: 226
+Comparações AVL: 206
+
+Frase: There 's little to recommend Snow Dogs , unless one considers cliched dialogue and perverse escapism a source of high hilarity .	
+Escore: 0
+Comparações ABP: 528
+Comparações AVL: 472
+
+Frase: Kung Pow is Oedekerk 's realization of his childhood dream to be in a martial-arts flick , and proves that sometimes the dreams of youth should remain just that .	
+Escore: 1
+Comparações ABP: 766
+Comparações AVL: 656
+
+Frase: The performances are an absolute joy .	
+Escore: 1
+Comparações ABP: 154
+Comparações AVL: 144
+
+Frase: Fresnadillo has something serious to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense .	
+Escore: -1
+Comparações ABP: 700
+Comparações AVL: 610
+
+Frase: I still like Moonlight Mile , better judgment be damned .	
+Escore: 1
+Comparações ABP: 208
+Comparações AVL: 220
+
+Frase: A welcome relief from baseball movies that try too hard to be mythic , this one is a sweet and modest and ultimately winning story .	
+Escore: 1
+Comparações ABP: 640
+Comparações AVL: 546
+
+Frase: a bilingual charmer , just like the woman who inspired it	
+Escore: 1
+Comparações ABP: 240
+Comparações AVL: 248
+
+Frase: Like a less dizzily gorgeous companion to Mr. Wong 's In the Mood for Love -- very much a Hong Kong movie despite its mainland setting .	
+Escore: 1
+Comparações ABP: 584
+Comparações AVL: 594
+
+Frase: As inept as big-screen remakes of The Avengers and The Wild Wild West .	
+Escore: -1
+Comparações ABP: 292
+Comparações AVL: 318
+
+Frase: It 's everything you 'd expect -- but nothing more .	
+Escore: 0
+Comparações ABP: 256
+Comparações AVL: 238
+
+Frase: Best indie of the year , so far .	
+Escore: 0
+Comparações ABP: 200
+Comparações AVL: 182
+
+Frase: Hatfield and Hicks make the oddest of couples , and in this sense the movie becomes a study of the gambles of the publishing world , offering a case study that exists apart from all the movie 's political ramifications .	
+Escore: 0
+Comparações ABP: 1068
+Comparações AVL: 880
+
+Frase: It 's like going to a house party and watching the host defend himself against a frothing ex-girlfriend .	
+Escore: 1
+Comparações ABP: 448
+Comparações AVL: 420
+
+Frase: That the Chuck Norris `` grenade gag '' occurs about 7 times during Windtalkers is a good indication of how serious-minded the film is .	
+Escore: 0
+Comparações ABP: 554
+Comparações AVL: 544
+
+Frase: The plot is romantic comedy boilerplate from start to finish .	
+Escore: 0
+Comparações ABP: 272
+Comparações AVL: 242
+
+Frase: It arrives with an impeccable pedigree , mongrel pep , and almost indecipherable plot complications .	
+Escore: 0
+Comparações ABP: 392
+Comparações AVL: 324
+
+Frase: A film that clearly means to preach exclusively to the converted .	
+Escore: 1
+Comparações ABP: 320
+Comparações AVL: 270
+
+Frase: While The Importance of Being Earnest offers opportunities for occasional smiles and chuckles , it does n't give us a reason to be in the theater beyond Wilde 's wit and the actors ' performances .	
+Escore: 0
+Comparações ABP: 878
+Comparações AVL: 790
+
+Frase: The latest vapid actor 's exercise to appropriate the structure of Arthur Schnitzler 's Reigen .	
+Escore: 0
+Comparações ABP: 374
+Comparações AVL: 354
+
+Frase: More vaudeville show than well-constructed narrative , but on those terms it 's inoffensive and actually rather sweet .	
+Escore: 0
+Comparações ABP: 456
+Comparações AVL: 402
+
+Frase: Nothing more than a run-of-the-mill action flick .	
+Escore: 0
+Comparações ABP: 182
+Comparações AVL: 174
+
+Frase: Hampered -- no , paralyzed -- by a self-indulgent script ... that aims for poetry and ends up sounding like satire .	
+Escore: 1
+Comparações ABP: 518
+Comparações AVL: 456
+
+Frase: Ice Age is the first computer-generated feature cartoon to feel like other movies , and that makes for some glacial pacing early on .	
+Escore: 1
+Comparações ABP: 622
+Comparações AVL: 526
+
+Frase: There 's very little sense to what 's going on here , but the makers serve up the cliches with considerable dash .	
+Escore: 0
+Comparações ABP: 520
+Comparações AVL: 488
+
+Frase: Cattaneo should have followed the runaway success of his first film , The Full Monty , with something different .	
+Escore: -1
+Comparações ABP: 450
+Comparações AVL: 394
+
+Frase: They 're the unnamed , easily substitutable forces that serve as whatever terror the heroes of horror movies try to avoid .	
+Escore: 0
+Comparações ABP: 550
+Comparações AVL: 474
+
+Frase: It almost feels as if the movie is more interested in entertaining itself than in amusing us .	
+Escore: 0
+Comparações ABP: 496
+Comparações AVL: 412
+
+Frase: The movie 's progression into rambling incoherence gives new meaning to the phrase ` fatal script error . '	
+Escore: -2
+Comparações ABP: 474
+Comparações AVL: 396
+
+Frase: Do n't judge this one too soon - it 's a dark , gritty story but it takes off in totally unexpected directions and keeps on going .	
+Escore: 0
+Comparações ABP: 712
+Comparações AVL: 626
+
+Frase: So could young romantics out on a date .	
+Escore: 0
+Comparações ABP: 216
+Comparações AVL: 202
+
+Frase: Tartakovsky 's team has some freakish powers of visual charm , but the five writers slip into the modern rut of narrative banality .	
+Escore: 0
+Comparações ABP: 600
+Comparações AVL: 514
+
+Frase: Vincent Gallo is right at home in this French shocker playing his usual bad boy weirdo role .	
+Escore: 0
+Comparações ABP: 408
+Comparações AVL: 402
+
+Frase: If a horror movie 's primary goal is to frighten and disturb , then They works spectacularly well ... A shiver-inducing , nerve-rattling ride .	
+Escore: 1
+Comparações ABP: 526
+Comparações AVL: 492
+
+Frase: This 100-minute movie only has about 25 minutes of decent material .	
+Escore: 0
+Comparações ABP: 298
+Comparações AVL: 264
+
+Frase: Fortunately , you still have that option .	
+Escore: 0
+Comparações ABP: 156
+Comparações AVL: 152
+
+Frase: Less the sensational true-crime hell-jaunt purists might like and more experimental in its storytelling -LRB- though no less horrifying for it -RRB- .	
+Escore: 1
+Comparações ABP: 596
+Comparações AVL: 520
+
+Frase: As tricky and satisfying as any of David Mamet 's airless cinematic shell games .	
+Escore: -1
+Comparações ABP: 356
+Comparações AVL: 326
+
+Frase: I 'm sure the filmmaker would disagree , but , honestly , I do n't see the point .	
+Escore: -1
+Comparações ABP: 410
+Comparações AVL: 370
+
+Frase: Jones has tackled a meaty subject and drawn engaging characters while peppering the pages with memorable zingers .	
+Escore: 1
+Comparações ABP: 464
+Comparações AVL: 394
+
+Frase: Bloody Sunday has the grace to call for prevention rather than to place blame , making it one of the best war movies ever made .	
+Escore: 1
+Comparações ABP: 668
+Comparações AVL: 558
+
+Frase: Takes a clunky TV-movie approach to detailing a chapter in the life of the celebrated Irish playwright , poet and drinker .	
+Escore: 0
+Comparações ABP: 552
+Comparações AVL: 470
+
+Frase: Finally coming down off of Miramax 's deep shelves after a couple of aborted attempts , Waking Up in Reno makes a strong case for letting sleeping dogs lie .	
+Escore: -1
+Comparações ABP: 736
+Comparações AVL: 650
+
+Frase: Thanks largely to Williams , all the interesting developments are processed in 60 minutes -- the rest is just an overexposed waste of film .	
+Escore: 0
+Comparações ABP: 644
+Comparações AVL: 542
+
+Frase: Comes across as a relic from a bygone era , and its convolutions ... feel silly rather than plausible .	
+Escore: -1
+Comparações ABP: 440
+Comparações AVL: 398
+
+Frase: Perhaps it 's cliche to call the film ` refreshing , ' but it is .	
+Escore: 0
+Comparações ABP: 324
+Comparações AVL: 316
+
+Frase: Both lead performances are Oscar-size .	
+Escore: 1
+Comparações ABP: 130
+Comparações AVL: 136
+
+Frase: Run for your lives !	
+Escore: 0
+Comparações ABP: 108
+Comparações AVL: 112
+
+Frase: Mark Pellington 's latest pop thriller is as kooky and overeager as it is spooky and subtly in love with myth .	
+Escore: 1
+Comparações ABP: 606
+Comparações AVL: 500
+
+Frase: Claude Chabrol 's camera has a way of gently swaying back and forth as it cradles its characters , veiling tension beneath otherwise tender movements .	
+Escore: 0
+Comparações ABP: 616
+Comparações AVL: 554
+
+Frase: Transforms one of -LRB- Shakespeare 's -RRB- deepest tragedies into a smart new comedy .	
+Escore: 1
+Comparações ABP: 362
+Comparações AVL: 332
+
+Frase: The screenplay by James Eric , James Horton and director Peter O'Fallon ... is so pat it makes your teeth hurt .	
+Escore: 0
+Comparações ABP: 446
+Comparações AVL: 468
+
+Frase: But arriving at a particularly dark moment in history , it offers flickering reminders of the ties that bind us .	
+Escore: 0
+Comparações ABP: 522
+Comparações AVL: 466
+
+Frase: Its generic villains lack any intrigue -LRB- other than their funny accents -RRB- and the action scenes are poorly delivered .	
+Escore: -1
+Comparações ABP: 536
+Comparações AVL: 460
+
+Frase: The characters are more deeply thought through than in most ` right-thinking ' films .	
+Escore: 0
+Comparações ABP: 376
+Comparações AVL: 312
+
+Frase: The film , despite the gratuitous cinematic distractions impressed upon it , is still good fun .	
+Escore: 0
+Comparações ABP: 380
+Comparações AVL: 334
+
+Frase: Downright transparent is the script 's endless assault of embarrassingly ham-fisted sex jokes that reek of a script rewrite designed to garner the film a `` cooler '' PG-13 rating .	
+Escore: -1
+Comparações ABP: 760
+Comparações AVL: 676
+
+Frase: A smart , provocative drama that does the nearly impossible : It gets under the skin of a man we only know as an evil , monstrous lunatic .	
+Escore: 1
+Comparações ABP: 716
+Comparações AVL: 590
+
+Frase: It 's like a drive-by .	
+Escore: 1
+Comparações ABP: 124
+Comparações AVL: 130
+
+Frase: is many things -- stoner midnight flick , sci-fi deconstruction , gay fantasia -- but above all it 's a love story as sanguine as its title .	
+Escore: 1
+Comparações ABP: 644
+Comparações AVL: 576
+
+Frase: A very funny romantic comedy about two skittish New York middle-agers who stumble into a relationship and then struggle furiously with their fears and foibles .	
+Escore: -2
+Comparações ABP: 596
+Comparações AVL: 566
+
+Frase: But it has an ambition to say something about its subjects , but not a willingness .	
+Escore: 1
+Comparações ABP: 388
+Comparações AVL: 356
+
+Frase: -LRB- Scherfig -RRB- has made a movie that will leave you wondering about the characters ' lives after the clever credits roll .	
+Escore: 0
+Comparações ABP: 506
+Comparações AVL: 488
+
+Frase: -LRB- An -RRB- absorbing documentary .	
+Escore: 0
+Comparações ABP: 104
+Comparações AVL: 130
+
+Frase: Reeks of rot and hack work from start to finish .	
+Escore: 0
+Comparações ABP: 276
+Comparações AVL: 240
+
+Frase: Plays like a series of vignettes -- clips of a film that are still looking for a common through-line .	
+Escore: 1
+Comparações ABP: 486
+Comparações AVL: 450
+
+Frase:  	
+Escore: 0
+Comparações ABP: 12
+Comparações AVL: 20
+
+Frase: The major problem with Windtalkers is that the bulk of the movie centers on the wrong character .	
+Escore: 0
+Comparações ABP: 480
+Comparações AVL: 410
+
+Frase: Swimfan , like Fatal Attraction , eventually goes overboard with a loony melodramatic denouement in which a high school swimming pool substitutes for a bathtub .	
+Escore: 1
+Comparações ABP: 548
+Comparações AVL: 530
+
+Frase: This is a heartfelt story ... it just is n't a very involving one .	
+Escore: 0
+Comparações ABP: 352
+Comparações AVL: 334
+
+Frase: An unsettling , memorable cinematic experience that does its predecessors proud .	
+Escore: 2
+Comparações ABP: 298
+Comparações AVL: 246
+
+Frase: All in all , it 's a pretty good execution of a story that 's a lot richer than the ones Hollywood action screenwriters usually come up with on their own .	
+Escore: 0
+Comparações ABP: 780
+Comparações AVL: 694
+
+Frase: Phillip Noyce and all of his actors -- as well as his cinematographer , Christopher Doyle -- understand the delicate forcefulness of Greene 's prose , and it 's there on the screen in their version of The Quiet American .	
+Escore: 1
+Comparações ABP: 990
+Comparações AVL: 878
+
+Frase: The Pianist lacks the quick emotional connections of Steven Spielberg 's Schindler 's List .	
+Escore: -1
+Comparações ABP: 356
+Comparações AVL: 334
+
+Frase: Inventive , fun , intoxicatingly sexy , violent , self-indulgent and maddening .	
+Escore: -2
+Comparações ABP: 208
+Comparações AVL: 196
+
+Frase: Tells a fascinating , compelling story .	
+Escore: 0
+Comparações ABP: 120
+Comparações AVL: 128
+
+Frase: Written , flatly , by David Kendall and directed , barely , by There 's Something About Mary co-writer Ed Decter .	
+Escore: 0
+Comparações ABP: 360
+Comparações AVL: 398
+
+Frase: Highly recommended viewing for its courage , ideas , technical proficiency and great acting .	
+Escore: 0
+Comparações ABP: 348
+Comparações AVL: 288
+
+Frase: In IMAX in short , it 's just as wonderful on the big screen .	
+Escore: 0
+Comparações ABP: 318
+Comparações AVL: 322
+
+Frase: It shows us a slice of life that 's very different from our own and yet instantly recognizable .	
+Escore: 1
+Comparações ABP: 480
+Comparações AVL: 432
+
+Frase: Amid the shock and curiosity factors , the film is just a corny examination of a young actress trying to find her way .	
+Escore: -1
+Comparações ABP: 582
+Comparações AVL: 518
+
+Frase: It 's lazy for a movie to avoid solving one problem by trying to distract us with the solution to another .	
+Escore: 0
+Comparações ABP: 588
+Comparações AVL: 498
+
+Frase: ... it 's as comprehensible as any Dummies guide , something even non-techies can enjoy .	
+Escore: 0
+Comparações ABP: 378
+Comparações AVL: 316
+
+Frase: Entertains not so much because of its music or comic antics , but through the perverse pleasure of watching Disney scrape the bottom of its own cracker barrel .	
+Escore: 0
+Comparações ABP: 760
+Comparações AVL: 646
+
+Frase: Writer\/director Burr Steers emphasizes the Q in Quirky , with mixed results .	
+Escore: 0
+Comparações ABP: 288
+Comparações AVL: 286
+
+Frase: Scarcely worth a mention apart from reporting on the number of tumbleweeds blowing through the empty theatres graced with its company .	
+Escore: 1
+Comparações ABP: 556
+Comparações AVL: 492
+
+Frase: Invigorating , surreal , and resonant with a rainbow of emotion .	
+Escore: 0
+Comparações ABP: 270
+Comparações AVL: 220
+
+Frase: `` Analyze That '' is one of those crass , contrived sequels that not only fails on its own , but makes you second-guess your affection for the original .	
+Escore: 0
+Comparações ABP: 688
+Comparações AVL: 624
+
+Frase: Report card : Does n't live up to the exalted tagline - there 's definite room for improvement .	
+Escore: 1
+Comparações ABP: 472
+Comparações AVL: 418
+
+Frase: It 's not a particularly good film , but neither is it a monsterous one .	
+Escore: 0
+Comparações ABP: 378
+Comparações AVL: 346
+
+Frase: Tsai may be ploughing the same furrow once too often .	
+Escore: 0
+Comparações ABP: 298
+Comparações AVL: 250
+
+Frase: -LRB- Green is -RRB- the comedy equivalent of Saddam Hussein , and I 'm just about ready to go to the U.N. and ask permission for a preemptive strike .	
+Escore: 0
+Comparações ABP: 736
+Comparações AVL: 674
+
+Frase: A surprisingly ` solid ' achievement by director Malcolm D. Lee and writer John Ridley .	
+Escore: 0
+Comparações ABP: 290
+Comparações AVL: 326
+
+Frase: Massoud 's story is an epic , but also a tragedy , the record of a tenacious , humane fighter who was also the prisoner -LRB- and ultimately the victim -RRB- of history .	
+Escore: 0
+Comparações ABP: 820
+Comparações AVL: 686
+
+Frase: Changing Lanes tries for more .	
+Escore: 0
+Comparações ABP: 132
+Comparações AVL: 132
+
+Frase: Shyamalan should stop trying to please his mom .	
+Escore: 0
+Comparações ABP: 214
+Comparações AVL: 198
+
+Frase: A macabre and very stylized Swedish fillm about a modern city where all the religious and civic virtues that hold society in place are in tatters .	
+Escore: -1
+Comparações ABP: 684
+Comparações AVL: 612
+
+Frase: One of recent memory 's most thoughtful films about art , ethics , and the cost of moral compromise .	
+Escore: 0
+Comparações ABP: 528
+Comparações AVL: 414
+
+Frase: The narrative is so consistently unimaginative that probably the only way to have saved the film is with the aid of those wisecracking Mystery Science Theater 3000 guys .	
+Escore: 1
+Comparações ABP: 712
+Comparações AVL: 648
+
+Frase: Filmmaker Tian Zhuangzhuang triumphantly returns to narrative filmmaking with a visually masterful work of quiet power .	
+Escore: 2
+Comparações ABP: 416
+Comparações AVL: 376
+
+Frase: A mawkish self-parody that plays like some weird Masterpiece Theater sketch with neither a point of view nor a compelling reason for being .	
+Escore: 0
+Comparações ABP: 594
+Comparações AVL: 544
+
+Frase: Takes one character we do n't like and another we do n't believe , and puts them into a battle of wills that is impossible to care about and is n't very funny .	
+Escore: 1
+Comparações ABP: 962
+Comparações AVL: 796
+
+Frase: And if you appreciate the one-sided theme to Lawrence 's over-indulgent tirade , then knock yourself out and enjoy the big screen postcard that is a self-glorified Martin Lawrence lovefest .	
+Escore: 0
+Comparações ABP: 756
+Comparações AVL: 686
+
+Frase: The whole film has this sneaky feel to it -- as if the director is trying to dupe the viewer into taking it all as Very Important simply because the movie is ugly to look at and not a Hollywood product .	
+Escore: 0
+Comparações ABP: 1054
+Comparações AVL: 940
+
+Frase: Whenever it threatens to get bogged down in earnest dramaturgy , a stirring visual sequence like a surge through swirling rapids or a leap from pinnacle to pinnacle rouses us .	
+Escore: 4
+Comparações ABP: 750
+Comparações AVL: 664
+
+Frase: Swinging , the film makes it seem , is not a hobby that attracts the young and fit .	
+Escore: 0
+Comparações ABP: 418
+Comparações AVL: 388
+
+Frase: But when it does , you 're entirely unprepared .	
+Escore: -1
+Comparações ABP: 214
+Comparações AVL: 194
+
+Frase: Devos delivers a perfect performance that captures the innocence and budding demons within a wallflower .	
+Escore: 1
+Comparações ABP: 406
+Comparações AVL: 362
+
+Frase: 300 years of Russian history and culture compressed into an evanescent , seamless and sumptuous stream of consciousness .	
+Escore: 1
+Comparações ABP: 496
+Comparações AVL: 398
+
+Frase: The filmmakers want nothing else than to show us a good time , and in their cheap , B movie way , they succeed .	
+Escore: 1
+Comparações ABP: 570
+Comparações AVL: 498
+
+Frase: Mr. Polanski is in his element here : alone , abandoned , but still consoled by his art , which is more than he has ever revealed before about the source of his spiritual survival .	
+Escore: 1
+Comparações ABP: 802
+Comparações AVL: 708
+
+Frase: `` Spider-man is better than any summer blockbuster we had to endure last summer , and hopefully , sets the tone for a summer of good stuff .	
+Escore: 0
+Comparações ABP: 700
+Comparações AVL: 576
+
+Frase: Absorbing character	
+Escore: 0
+Comparações ABP: 56
+Comparações AVL: 62
+
+Frase: Violent , vulgar and forgettably entertaining .	
+Escore: -1
+Comparações ABP: 154
+Comparações AVL: 132
+
+Frase: It 's the unsettling images of a war-ravaged land that prove more potent and riveting than the unlikely story of Sarah and Harrison .	
+Escore: 0
+Comparações ABP: 654
+Comparações AVL: 542
+
+Frase: Winds up being both revelatory and narcissistic , achieving some honest insight into relationships that most high-concept films candy-coat with pat storylines , precious circumstances and beautiful stars .	
+Escore: 0
+Comparações ABP: 712
+Comparações AVL: 608
+
+Frase: If Mostly Martha is mostly unsurprising , it 's still a sweet , even delectable diversion .	
+Escore: 0
+Comparações ABP: 342
+Comparações AVL: 330
+
+Frase: A thoughtful and surprisingly affecting portrait of a screwed-up man who dared to mess with some powerful people , seen through the eyes of the idealistic kid who chooses to champion his ultimately losing cause .	
+Escore: -1
+Comparações ABP: 906
+Comparações AVL: 784
+
+Frase: Keenly observed and refreshingly natural , Swimming gets the details right , from its promenade of barely clad bodies in Myrtle Beach , S.C. , to the adrenaline jolt of a sudden lunch rush at the diner .	
+Escore: 0
+Comparações ABP: 862
+Comparações AVL: 798
+
+Frase: A brilliant gag at the expense of those who paid for it and those who pay to see it .	
+Escore: 1
+Comparações ABP: 524
+Comparações AVL: 454
+
+Frase: A triumph , a film that hews out a world and carries us effortlessly from darkness to light .	
+Escore: 0
+Comparações ABP: 412
+Comparações AVL: 396
+
+Frase: Just about everyone involved here seems to be coasting .	
+Escore: 0
+Comparações ABP: 214
+Comparações AVL: 216
+
+Frase: A fascinating , dark thriller that keeps you hooked on the delicious pulpiness of its lurid fiction .	
+Escore: 0
+Comparações ABP: 470
+Comparações AVL: 390
+
+Frase: I suspect this is the kind of production that would have been funnier if the director had released the outtakes theatrically and used the film as a bonus feature on the DVD .	
+Escore: 0
+Comparações ABP: 872
+Comparações AVL: 760
+
+Frase: It 's hard to say who might enjoy this , are there Tolstoy groupies out there ?	
+Escore: 0
+Comparações ABP: 408
+Comparações AVL: 362
+
+Frase: Daughter From Danang reveals that efforts toward closure only open new wounds .	
+Escore: 0
+Comparações ABP: 318
+Comparações AVL: 292
+
+Frase: One of the year 's most weirdly engaging and unpredictable character pieces .	
+Escore: -1
+Comparações ABP: 370
+Comparações AVL: 290
+
+Frase: Intriguing and downright intoxicating .	
+Escore: 0
+Comparações ABP: 126
+Comparações AVL: 106
+
+Frase: Although fairly involving as far as it goes , the film does n't end up having much that is fresh to say about growing up Catholic or , really , anything .	
+Escore: 0
+Comparações ABP: 776
+Comparações AVL: 670
+
+Frase: The movie is silly beyond comprehension , and even if it were n't silly , it would still be beyond comprehension .	
+Escore: -2
+Comparações ABP: 494
+Comparações AVL: 464
+
+Frase: Sleek and arty .	
+Escore: 0
+Comparações ABP: 96
+Comparações AVL: 88
+
+Frase: Poor editing , bad bluescreen , and ultra-cheesy dialogue highlight the radical action .	
+Escore: -1
+Comparações ABP: 324
+Comparações AVL: 262
+
+Frase: -LRB- Cho 's face is -RRB- an amazing slapstick instrument , creating a scrapbook of living mug shots .	
+Escore: 0
+Comparações ABP: 446
+Comparações AVL: 410
+
+Frase: It gets the details of its time frame right but it completely misses its emotions .	
+Escore: 1
+Comparações ABP: 434
+Comparações AVL: 368
+
+Frase: Initial strangeness inexorably gives way to rote sentimentality and mystical tenderness becomes narrative expedience .	
+Escore: 0
+Comparações ABP: 366
+Comparações AVL: 326
+
+Frase: It lets you brush up against the humanity of a psycho , without making him any less psycho .	
+Escore: 0
+Comparações ABP: 470
+Comparações AVL: 400
+
+Frase: Like the world of his film , Hartley created a monster but did n't know how to handle it .	
+Escore: 0
+Comparações ABP: 502
+Comparações AVL: 450
+
+Frase: When cowering and begging at the feet a scruffy Giannini , Madonna gives her best performance since Abel Ferrara had her beaten to a pulp in his Dangerous Game .	
+Escore: 1
+Comparações ABP: 626
+Comparações AVL: 638
+
+Frase: Too clumsy in key moments ... to make a big splash .	
+Escore: 0
+Comparações ABP: 258
+Comparações AVL: 250
+
+Frase: Because Eight Legged Freaks is partly an homage to Them , Tarantula and other low - budget B-movie thrillers of the 1950s and '60s , the movie is a silly -LRB- but not sophomoric -RRB- romp through horror and hellish conditions .	
+Escore: -1
+Comparações ABP: 954
+Comparações AVL: 904
+
+Frase: It feels like very light Errol Morris , focusing on eccentricity but failing , ultimately , to make something bigger out of its scrapbook of oddballs .	
+Escore: 0
+Comparações ABP: 644
+Comparações AVL: 552
+
+Frase: Spielberg 's realization of a near-future America is masterful .	
+Escore: 0
+Comparações ABP: 232
+Comparações AVL: 224
+
+Frase: There 's a scientific law to be discerned here that producers would be well to heed : Mediocre movies start to drag as soon as the action speeds up ; when the explosions start , they fall to pieces .	
+Escore: 0
+Comparações ABP: 940
+Comparações AVL: 832
+
+Frase: He 's one of the few ` cool ' actors who never seems aware of his own coolness .	
+Escore: 0
+Comparações ABP: 456
+Comparações AVL: 408
+
+Frase: Feels like the work of an artist who is simply tired -- of fighting the same fights , of putting the weight of the world on his shoulders , of playing with narrative form .	
+Escore: 1
+Comparações ABP: 932
+Comparações AVL: 768
+
+Frase: ... stale and uninspired .	
+Escore: 0
+Comparações ABP: 100
+Comparações AVL: 90
+
+Frase: In the director 's cut , the film is not only a love song to the movies but it also is more fully an example of the kind of lush , all-enveloping movie experience it rhapsodizes .	
+Escore: 1
+Comparações ABP: 972
+Comparações AVL: 798
+
+Frase: Has the rare capability to soothe and break your heart with a single stroke .	
+Escore: 2
+Comparações ABP: 338
+Comparações AVL: 324
+
+Frase: Eerily accurate depiction of depression .	
+Escore: 0
+Comparações ABP: 172
+Comparações AVL: 136
+
+Frase: As a feature-length film , it wears out its welcome as tryingly as the title character .	
+Escore: 1
+Comparações ABP: 396
+Comparações AVL: 352
+
+Frase: An uncluttered , resonant gem that relays its universal points without lectures or confrontations . '	
+Escore: 0
+Comparações ABP: 376
+Comparações AVL: 314
+
+Frase: The story alone could force you to scratch a hole in your head .	
+Escore: 0
+Comparações ABP: 316
+Comparações AVL: 310
+
+Frase: It 's the filmmakers ' post-camp comprehension of what made old-time B movies good-bad that makes Eight Legged Freaks a perfectly entertaining summer diversion .	
+Escore: 0
+Comparações ABP: 624
+Comparações AVL: 544
+
+Frase: As any creature-feature fan knows , when you cross toxic chemicals with a bunch of exotic creatures , you get a lot of running around , screaming and death .	
+Escore: 0
+Comparações ABP: 706
+Comparações AVL: 602
+
+Frase: You bet there is and it 's what makes this rather convoluted journey worth taking .	
+Escore: 1
+Comparações ABP: 372
+Comparações AVL: 360
+
+Frase: Before it takes a sudden turn and devolves into a bizarre sort of romantic comedy , Steven Shainberg 's adaptation of Mary Gaitskill 's harrowing short story ... is a brilliantly played , deeply unsettling experience .	
+Escore: -1
+Comparações ABP: 822
+Comparações AVL: 758
+
+Frase: Kim Ki-Deok seems to have in mind an -LRB- emotionally at least -RRB- adolescent audience demanding regular shocks and bouts of barely defensible sexual violence to keep it interested .	
+Escore: 0
+Comparações ABP: 780
+Comparações AVL: 664
+
+Frase: Has no reason to exist , other than to employ Hollywood kids and people who owe favors to their famous parents .	
+Escore: 0
+Comparações ABP: 570
+Comparações AVL: 474
+
+Frase: A well-made but emotionally scattered film whose hero gives his heart only to the dog .	
+Escore: 0
+Comparações ABP: 390
+Comparações AVL: 350
+
+Frase: Those who love Cinema Paradiso will find the new scenes interesting , but few will find the movie improved .	
+Escore: 2
+Comparações ABP: 468
+Comparações AVL: 426
+
+Frase: Campanella gets the tone just right -- funny in the middle of sad in the middle of hopeful .	
+Escore: 1
+Comparações ABP: 504
+Comparações AVL: 444
+
+Frase: Nothing more than an amiable but unfocused bagatelle that plays like a loosely-connected string of acting-workshop exercises .	
+Escore: 1
+Comparações ABP: 492
+Comparações AVL: 398
+
+Frase: It 's a sharp movie about otherwise dull subjects .	
+Escore: 1
+Comparações ABP: 226
+Comparações AVL: 216
+
+Frase: Wallace gets a bit heavy handed with his message at times , and has a visual flair that waxes poetic far too much for our taste .	
+Escore: 0
+Comparações ABP: 642
+Comparações AVL: 580
+
+Frase: Charming and funny -LRB- but ultimately silly -RRB- movie .	
+Escore: -1
+Comparações ABP: 212
+Comparações AVL: 214
+
+Frase: ... the one thing this Wild film has that other Imax films do n't : chimps , lots of chimps , all blown up to the size of a house .	
+Escore: 0
+Comparações ABP: 758
+Comparações AVL: 628
+
+Frase: Starts out mediocre , spirals downward , and thuds to the bottom of the pool with an utterly incompetent conclusion .	
+Escore: -1
+Comparações ABP: 492
+Comparações AVL: 420
+
+Frase: This is a children 's film in the truest sense .	
+Escore: 0
+Comparações ABP: 248
+Comparações AVL: 248
+
+Frase: Horrendously amateurish filmmaking that is plainly dull and visually ugly when it is n't incomprehensible .	
+Escore: 0
+Comparações ABP: 452
+Comparações AVL: 384
+
+Frase: Beautifully crafted , engaging filmmaking that should attract upscale audiences hungry for quality and a nostalgic , twisty yarn that will keep them guessing .	
+Escore: 1
+Comparações ABP: 612
+Comparações AVL: 518
+
+Frase: An awkwardly contrived exercise in magic realism .	
+Escore: 0
+Comparações ABP: 192
+Comparações AVL: 178
+
+Frase: The punch lines that miss , unfortunately , outnumber the hits by three-to-one .	
+Escore: -1
+Comparações ABP: 308
+Comparações AVL: 270
+
+Frase: Like Smoke Signals , the film is also imbued with strong themes of familial ties and spirituality that are powerful and moving without stooping to base melodrama	
+Escore: 0
+Comparações ABP: 722
+Comparações AVL: 600
+
+Frase: Evokes the style and flash of the double-cross that made Mamet 's `` House of Games '' and last fall 's `` Heist '' so much fun .	
+Escore: -1
+Comparações ABP: 656
+Comparações AVL: 586
+
+Frase: The film aims to be funny , uplifting and moving , sometimes all at once .	
+Escore: 0
+Comparações ABP: 360
+Comparações AVL: 304
+
+Frase: At a brief 42 minutes , we need more X and less blab .	
+Escore: 0
+Comparações ABP: 300
+Comparações AVL: 288
+
+Frase: The Spalding Gray equivalent of a teen gross-out comedy .	
+Escore: 0
+Comparações ABP: 222
+Comparações AVL: 222
+
+Frase: There 's a great deal of corny dialogue and preposterous moments .	
+Escore: 0
+Comparações ABP: 350
+Comparações AVL: 270
+
+Frase: Uneven but a lot of fun .	
+Escore: 0
+Comparações ABP: 154
+Comparações AVL: 154
+
+Frase: The result might look like Vulgar .	
+Escore: 1
+Comparações ABP: 152
+Comparações AVL: 154
+
+Frase: The film rehashes several old themes and is capped with pointless extremes -- it 's insanely violent and very graphic .	
+Escore: -3
+Comparações ABP: 552
+Comparações AVL: 476
+
+Frase: The dragons are the real stars of Reign of Fire and you wo n't be disappointed .	
+Escore: 0
+Comparações ABP: 460
+Comparações AVL: 402
+
+Frase: It never plays as dramatic even when dramatic things happen to people .	
+Escore: 0
+Comparações ABP: 362
+Comparações AVL: 292
+
+Frase: Manages to please its intended audience -- children -- without placing their parents in a coma-like state .	
+Escore: 0
+Comparações ABP: 430
+Comparações AVL: 410
+
+Frase: The movie generates plot points with a degree of randomness usually achieved only by lottery drawing .	
+Escore: 0
+Comparações ABP: 498
+Comparações AVL: 374
+
+Frase: Though the film never veers from its comic course , its unintentional parallels might inadvertently evoke memories and emotions which are anything but humorous .	
+Escore: 0
+Comparações ABP: 638
+Comparações AVL: 540
+
+Frase: The film can depress you about life itself .	
+Escore: 0
+Comparações ABP: 214
+Comparações AVL: 200
+
+Frase: If you saw it on TV , you 'd probably turn it off , convinced that you had already seen that movie .	
+Escore: 0
+Comparações ABP: 516
+Comparações AVL: 470
+
+Frase: You get the impression that writer and director Burr Steers knows the territory ... but his sense of humor has yet to lose the smug self-satisfaction usually associated with the better private schools .	
+Escore: 0
+Comparações ABP: 822
+Comparações AVL: 742
+
+Frase: This is a superior horror flick .	
+Escore: 0
+Comparações ABP: 142
+Comparações AVL: 156
+
+Frase: The movie 's heavy-handed screenplay navigates a fast fade into pomposity and pretentiousness .	
+Escore: -1
+Comparações ABP: 372
+Comparações AVL: 306
+
+Frase: A little weak -- and it is n't that funny .	
+Escore: 0
+Comparações ABP: 284
+Comparações AVL: 268
+
+Frase: But they do n't fit well together and neither is well told .	
+Escore: 2
+Comparações ABP: 364
+Comparações AVL: 308
+
+Frase: Being latently gay and liking to read are hardly enough .	
+Escore: 0
+Comparações ABP: 312
+Comparações AVL: 246
+
+Frase: More sophisticated and literate than such pictures usually are ... an amusing little catch .	
+Escore: 1
+Comparações ABP: 396
+Comparações AVL: 312
+
+Frase: Storytelling feels slight .	
+Escore: 0
+Comparações ABP: 78
+Comparações AVL: 86
+
+Frase: Monte Cristo smartly emphasizes the well-wrought story and omits needless chase scenes and swordfights as the revenge unfolds .	
+Escore: -1
+Comparações ABP: 518
+Comparações AVL: 422
+
+Frase: It 's a fairy tale that comes from a renowned Indian film culture that allows Americans to finally revel in its splendor .	
+Escore: 1
+Comparações ABP: 534
+Comparações AVL: 518
+
+Frase: Well-done supernatural thriller with keen insights into parapsychological phenomena and the soulful nuances of the grieving process .	
+Escore: 1
+Comparações ABP: 504
+Comparações AVL: 412
+
+Frase: ... only Bond can save us from the latest eccentric , super-wealthy megalomaniac bent on world domination and destruction .	
+Escore: 0
+Comparações ABP: 472
+Comparações AVL: 398
+
+Frase: It is depressing , ruthlessly pained and depraved , the movie equivalent of staring into an open wound .	
+Escore: -2
+Comparações ABP: 508
+Comparações AVL: 384
+
+Frase: Damon brings the proper conviction to his role as -LRB- Jason Bourne -RRB- .	
+Escore: 0
+Comparações ABP: 308
+Comparações AVL: 310
+
+Frase: Parents beware ; this is downright movie penance .	
+Escore: -1
+Comparações ABP: 192
+Comparações AVL: 172
+
+Frase: When it 's this rich and luscious , who cares ?	
+Escore: 0
+Comparações ABP: 228
+Comparações AVL: 224
+
+Frase: A singularly off-putting romantic comedy .	
+Escore: 0
+Comparações ABP: 146
+Comparações AVL: 138
+
+Frase: Director Boris von Sychowski instead opts for a routine slasher film that was probably more fun to make than it is to sit through .	
+Escore: 0
+Comparações ABP: 622
+Comparações AVL: 566
+
+Frase: Would 've been nice if the screenwriters had trusted audiences to understand a complex story , and left off the film 's predictable denouement .	
+Escore: 0
+Comparações ABP: 670
+Comparações AVL: 532
+
+Frase: A superfluous sequel ... plagued by that old familiar feeling of ` let 's get this thing over with ' : Everyone has shown up at the appointed time and place , but visible enthusiasm is mighty hard to find .	
+Escore: 2
+Comparações ABP: 984
+Comparações AVL: 838
+
+Frase: An earnest , roughshod document , it serves as a workable primer for the region 's recent history , and would make a terrific 10th-grade learning tool .	
+Escore: 2
+Comparações ABP: 640
+Comparações AVL: 558
+
+Frase: Cloaks a familiar anti-feminist equation -LRB- career - kids = misery -RRB- in tiresome romantic-comedy duds .	
+Escore: -1
+Comparações ABP: 364
+Comparações AVL: 352
+
+Frase: A film that plays things so nice 'n safe as to often play like a milquetoast movie of the week blown up for the big screen .	
+Escore: 1
+Comparações ABP: 740
+Comparações AVL: 612
+
+Frase: His work transcends the boy-meets-girl posturing of typical love stories .	
+Escore: 1
+Comparações ABP: 264
+Comparações AVL: 246
+
+Frase: An even more predictable , cliche-ridden endeavor than its predecessor .	
+Escore: 0
+Comparações ABP: 298
+Comparações AVL: 224
+
+Frase: Plays like a bad blend of an overripe episode of TV 's Dawson 's Creek and a recycled and dumbed-down version of Love Story .	
+Escore: 0
+Comparações ABP: 636
+Comparações AVL: 560
+
+Frase: The script covers huge , heavy topics in a bland , surfacey way that does n't offer any insight into why , for instance , good things happen to bad people .	
+Escore: -1
+Comparações ABP: 736
+Comparações AVL: 644
+
+Frase: The film is so bad it does n't improve upon the experience of staring at a blank screen .	
+Escore: -1
+Comparações ABP: 508
+Comparações AVL: 448
+
+Frase: They threw loads of money at an idea that should 've been so much more even if it was only made for teenage boys and wrestling fans .	
+Escore: 0
+Comparações ABP: 754
+Comparações AVL: 634
+
+Frase: It 's difficult to imagine that a more confused , less interesting and more sloppily made film could possibly come down the road in 2002 .	
+Escore: -1
+Comparações ABP: 688
+Comparações AVL: 564
+
+Frase: Though the film is well-intentioned , one could rent the original and get the same love story and parable .	
+Escore: 1
+Comparações ABP: 532
+Comparações AVL: 436
+
+Frase: Jolting into Charleston rhythms , the story has the sizzle of old news that has finally found the right vent -LRB- accurate ?	
+Escore: 0
+Comparações ABP: 584
+Comparações AVL: 494
+
+Frase: Or both .	
+Escore: 0
+Comparações ABP: 52
+Comparações AVL: 66
+
+Frase: Williams plays Sy , another of his open-faced , smiling madmen , like the killer in Insomnia .	
+Escore: 1
+Comparações ABP: 374
+Comparações AVL: 332
+
+Frase: Phoned-in business as usual .	
+Escore: 0
+Comparações ABP: 110
+Comparações AVL: 112
+
+Frase: With its lackadaisical plotting and mindless action , All About the Benjamins evokes the bottom tier of blaxploitation flicks from the 1970s .	
+Escore: -1
+Comparações ABP: 522
+Comparações AVL: 496
+
+Frase: Ah , yes , that would be me : fighting off the urge to doze .	
+Escore: 0
+Comparações ABP: 334
+Comparações AVL: 294
+
+Frase: Thoughtless , random , superficial humour and a lot of very bad Scouse accents	
+Escore: -1
+Comparações ABP: 324
+Comparações AVL: 280
+
+Frase: In an era where big stars and high production values are standard procedure , Narc strikes a defiantly retro chord , and outpaces its contemporaries with daring and verve .	
+Escore: 1
+Comparações ABP: 770
+Comparações AVL: 622
+
+Frase: A rip-roaring comedy action fest that 'll put hairs on your chest .	
+Escore: 0
+Comparações ABP: 348
+Comparações AVL: 294
+
+Frase: ... a thoughtful what-if for the heart as well as the mind .	
+Escore: 1
+Comparações ABP: 300
+Comparações AVL: 272
+
+Frase: Miyazaki is one of world cinema 's most wondrously gifted artists and storytellers .	
+Escore: 0
+Comparações ABP: 370
+Comparações AVL: 316
+
+Frase: A chronicle not only of one man 's quest to be president , but of how that man single-handedly turned a plane full of hard-bitten , cynical journalists into what was essentially , by campaign 's end , an extended publicity department .	
+Escore: -1
+Comparações ABP: 1138
+Comparações AVL: 902
+
+Frase: Provides the kind of ` laugh therapy ' I need from movie comedies -- offbeat humor , amusing characters , and a happy ending .	
+Escore: 1
+Comparações ABP: 576
+Comparações AVL: 494
+
+Frase: Feels strangely hollow at its emotional core .	
+Escore: -1
+Comparações ABP: 176
+Comparações AVL: 178
+
+Frase: At a time when commercialism has squeezed the life out of whatever idealism American moviemaking ever had , Godfrey Reggio 's career shines like a lonely beacon .	
+Escore: 1
+Comparações ABP: 644
+Comparações AVL: 612
+
+Frase: Director Roger Michell does so many of the little things right that it 's difficult not to cuss him out severely for bungling the big stuff .	
+Escore: 0
+Comparações ABP: 688
+Comparações AVL: 620
+
+Frase: Robert Harmon 's less-is-more approach delivers real bump-in - the-night chills -- his greatest triumph is keeping the creepy crawlies hidden in the film 's thick shadows .	
+Escore: 1
+Comparações ABP: 688
+Comparações AVL: 624
+
+Frase: This movie may not have the highest production values you 've ever seen , but it 's the work of an artist , one whose view of America , history and the awkwardness of human life is generous and deep .	
+Escore: 0
+Comparações ABP: 1040
+Comparações AVL: 842
+
+Frase: Feral and uncomfortable .	
+Escore: -1
+Comparações ABP: 84
+Comparações AVL: 84
+
+Frase: Sillier , cuter , and shorter than the first -LRB- as best I remember -RRB- , but still a very good time at the cinema .	
+Escore: 1
+Comparações ABP: 520
+Comparações AVL: 510
+
+Frase: It 's more enjoyable than I expected , though , and that 's because the laughs come from fairly basic comedic constructs .	
+Escore: 0
+Comparações ABP: 548
+Comparações AVL: 468
+
+Frase: Black-and-white and unrealistic .	
+Escore: 0
+Comparações ABP: 96
+Comparações AVL: 88
+
+Frase: The film is predictable in the reassuring manner of a beautifully sung holiday carol .	
+Escore: 0
+Comparações ABP: 390
+Comparações AVL: 346
+
+Frase: The only camouflage Carvey should now be considering is a paper bag to wear over his head when he goes out into public , to avoid being recognized as the man who bilked unsuspecting moviegoers .	
+Escore: -1
+Comparações ABP: 876
+Comparações AVL: 782
+
+Frase: Not about scares but a mood in which an ominous , pervasive , and unknown threat lurks just below the proceedings and adds an almost constant mindset of suspense .	
+Escore: 0
+Comparações ABP: 758
+Comparações AVL: 630
+
+Frase: Some of the computer animation is handsome , and various amusing sidekicks add much-needed levity to the otherwise bleak tale , but overall the film never rises above mediocrity .	
+Escore: 0
+Comparações ABP: 776
+Comparações AVL: 626
+
+Frase: Offers the flash of rock videos fused with solid performances and eerie atmosphere .	
+Escore: 0
+Comparações ABP: 368
+Comparações AVL: 316
+
+Frase: A breezy blend of art , history , esoteric musings and philosophy .	
+Escore: 0
+Comparações ABP: 304
+Comparações AVL: 242
+
+Frase: Now as a former Gong Show addict , I 'll admit it , my only complaint is that we did n't get more re-creations of all those famous moments from the show .	
+Escore: 0
+Comparações ABP: 810
+Comparações AVL: 718
+
+Frase: Genuinely unnerving .	
+Escore: 0
+Comparações ABP: 58
+Comparações AVL: 66
+
+Frase: The increasingly diverse French director has created a film that one can honestly describe as looking , sounding and simply feeling like no other film in recent history .	
+Escore: 1
+Comparações ABP: 754
+Comparações AVL: 638
+
+Frase: One of those joyous films that leaps over national boundaries and celebrates universal human nature .	
+Escore: 0
+Comparações ABP: 428
+Comparações AVL: 362
+
+Frase: A difficult but worthy film that bites off more than it can chew by linking the massacre of Armenians in 1915 with some difficult relationships in the present .	
+Escore: -3
+Comparações ABP: 786
+Comparações AVL: 678
+
+Frase: Halfway through the movie , the humor dwindles .	
+Escore: 0
+Comparações ABP: 190
+Comparações AVL: 178
+
+Frase: Witty and often surprising , a dark little morality tale disguised as a romantic comedy .	
+Escore: 0
+Comparações ABP: 380
+Comparações AVL: 330
+
+Frase: One senses in World Traveler and in his earlier film that Freundlich bears a grievous but obscure complaint against fathers , and circles it obsessively , without making contact .	
+Escore: 0
+Comparações ABP: 678
+Comparações AVL: 622
+
+Frase: In fact , even better .	
+Escore: 0
+Comparações ABP: 108
+Comparações AVL: 108
+
+Frase: ... a preachy parable stylized with a touch of John Woo bullet ballet .	
+Escore: 0
+Comparações ABP: 310
+Comparações AVL: 294
+
+Frase: Proves that some movie formulas do n't need messing with -- like the big-bug movie .	
+Escore: 1
+Comparações ABP: 418
+Comparações AVL: 380
+
+Frase: An uplifting , largely bogus story .	
+Escore: -1
+Comparações ABP: 126
+Comparações AVL: 128
+
+Frase: Thanks to confident filmmaking and a pair of fascinating performances , the way to that destination is a really special walk in the woods .	
+Escore: 0
+Comparações ABP: 620
+Comparações AVL: 550
+
+Frase: Superbly photographed and staged by Mendes with a series of riveting set pieces the likes of which mainstream audiences have rarely seen .	
+Escore: 1
+Comparações ABP: 592
+Comparações AVL: 508
+
+Frase: A mesmerizing cinematic poem from the first frame to the last .	
+Escore: 1
+Comparações ABP: 302
+Comparações AVL: 264
+
+Frase: After the first 10 minutes , which is worth seeing	
+Escore: 1
+Comparações ABP: 202
+Comparações AVL: 222
+
+Frase: It has become apparent that the franchise 's best years are long past .	
+Escore: 1
+Comparações ABP: 332
+Comparações AVL: 304
+
+Frase: Screenwriter Chris ver Weil 's directing debut is good-natured and never dull , but its virtues are small and easily overshadowed by its predictability .	
+Escore: 0
+Comparações ABP: 644
+Comparações AVL: 544
+
+Frase: Too much of Storytelling moves away from Solondz 's social critique , casting its audience as that of intellectual lector in contemplation of the auteur 's professional injuries .	
+Escore: 0
+Comparações ABP: 794
+Comparações AVL: 642
+
+Frase: Ultimately , Sarah 's dedication to finding her husband seems more psychotic than romantic , and nothing in the movie makes a convincing case that one woman 's broken heart outweighs all the loss we witness .	
+Escore: 0
+Comparações ABP: 902
+Comparações AVL: 784
+
+Frase: The jokes are flat , and the action looks fake .	
+Escore: 0
+Comparações ABP: 254
+Comparações AVL: 222
+
+Frase: A mildly enjoyable if toothless adaptation of a much better book .	
+Escore: 0
+Comparações ABP: 302
+Comparações AVL: 270
+
+Frase: Festers in just such a dungpile that you 'd swear you were watching monkeys flinging their feces at you .	
+Escore: 0
+Comparações ABP: 456
+Comparações AVL: 444
+
+Frase: In addition to the overcooked , ham-fisted direction , which has all the actors reaching for the back row , the dialogue sounds like horrible poetry .	
+Escore: 1
+Comparações ABP: 642
+Comparações AVL: 542
+
+Frase: A vile , incoherent mess ... a scummy ripoff of David Cronenberg 's brilliant ` Videodrome . '	
+Escore: 1
+Comparações ABP: 300
+Comparações AVL: 330
+
+Frase: First , for a movie that tries to be smart , it 's kinda dumb .	
+Escore: 0
+Comparações ABP: 332
+Comparações AVL: 302
+
+Frase: I was sent a copyof this film to review on DVD .	
+Escore: 0
+Comparações ABP: 270
+Comparações AVL: 266
+
+Frase: ... silly humbuggery ...	
+Escore: -1
+Comparações ABP: 52
+Comparações AVL: 60
+
+Frase: Is n't as sharp as the original ... Despite some visual virtues , ` Blade II ' just does n't cut it .	
+Escore: 1
+Comparações ABP: 516
+Comparações AVL: 492
+
+Frase: A smart , arch and rather cold-blooded comedy .	
+Escore: 1
+Comparações ABP: 198
+Comparações AVL: 176
+
+Frase: -LRB- A -RRB- rather thinly-conceived movie .	
+Escore: 0
+Comparações ABP: 144
+Comparações AVL: 154
+
+Frase: Its flame-like , roiling black-and-white inspires trembling and gratitude .	
+Escore: 1
+Comparações ABP: 220
+Comparações AVL: 196
+
+Frase: Robinson 's web of suspense matches the page-turning frenzy that Clancy creates .	
+Escore: -1
+Comparações ABP: 318
+Comparações AVL: 294
+
+Frase: A slight but sweet film .	
+Escore: 0
+Comparações ABP: 126
+Comparações AVL: 130
+
+Frase: Got a David Lynch jones ?	
+Escore: 0
+Comparações ABP: 86
+Comparações AVL: 132
+
+Frase: Earnest and tentative even when it aims to shock .	
+Escore: -2
+Comparações ABP: 232
+Comparações AVL: 212
+
+Frase: Time of Favor could have given audiences the time of day by concentrating on the elements of a revealing alienation among a culture of people who sadly are at hostile odds with one another through recklessness and retaliation .	
+Escore: 0
+Comparações ABP: 1116
+Comparações AVL: 898
+
+Frase: `` Austin Powers in Goldmember '' has the right stuff for silly summer entertainment and has enough laughs to sustain interest to the end .	
+Escore: 0
+Comparações ABP: 628
+Comparações AVL: 526
+
+Frase: What puzzles me is the lack of emphasis on music in Britney Spears ' first movie .	
+Escore: -1
+Comparações ABP: 456
+Comparações AVL: 360
+
+Frase: The filmmakers might want to look it up .	
+Escore: 0
+Comparações ABP: 206
+Comparações AVL: 200
+
+Frase: While maintaining the appearance of clinical objectivity , this sad , occasionally horrifying but often inspiring film is among Wiseman 's warmest .	
+Escore: 0
+Comparações ABP: 544
+Comparações AVL: 476
+
+Frase: There is simply no doubt that this film asks the right questions at the right time in the history of our country .	
+Escore: 2
+Comparações ABP: 642
+Comparações AVL: 534
+
+Frase: A dreary movie .	
+Escore: 0
+Comparações ABP: 90
+Comparações AVL: 86
+
+Frase: Sadly , though many of the actors throw off a spark or two when they first appear , they ca n't generate enough heat in this cold vacuum of a comedy to start a reaction .	
+Escore: -1
+Comparações ABP: 938
+Comparações AVL: 792
+
+Frase: To the filmmakers , Ivan is a prince of a fellow , but he comes across as shallow and glib though not mean-spirited , and there 's no indication that he 's been responsible for putting together any movies of particular value or merit .	
+Escore: 1
+Comparações ABP: 1176
+Comparações AVL: 944
+
+Frase: Using a stock plot , About a Boy injects just enough freshness into the proceedings to provide an enjoyable 100 minutes in a movie theater .	
+Escore: 0
+Comparações ABP: 650
+Comparações AVL: 558
+
+Frase: Beating the Austin Powers films at their own game , this blaxploitation spoof downplays the raunch in favor of gags that rely on the strength of their own cleverness as opposed to the extent of their outrageousness .	
+Escore: 0
+Comparações ABP: 1024
+Comparações AVL: 852
+
+Frase: What begins as a conventional thriller evolves into a gorgeously atmospheric meditation on life-changing chance encounters .	
+Escore: 0
+Comparações ABP: 428
+Comparações AVL: 384
+
+Frase: Buy popcorn .	
+Escore: 0
+Comparações ABP: 62
+Comparações AVL: 66
+
+Frase: A late-night cable sexploitation romp masquerading as a thriller about the ruthless social order that governs college cliques .	
+Escore: 0
+Comparações ABP: 474
+Comparações AVL: 430
+
+Frase: A well-intentioned effort that 's still too burdened by the actor 's offbeat sensibilities for the earnest emotional core to emerge with any degree of accessibility .	
+Escore: 1
+Comparações ABP: 756
+Comparações AVL: 608
+
+Frase: -LRB- Allen 's -RRB- been making piffle for a long while , and Hollywood Ending may be his way of saying that piffle is all that the airhead movie business deserves from him right now .	
+Escore: 1
+Comparações ABP: 906
+Comparações AVL: 782
+
+Frase: Seeing as the film lacks momentum and its position remains mostly undeterminable , the director 's experiment is a successful one .	
+Escore: 0
+Comparações ABP: 586
+Comparações AVL: 478
+
+Frase: Judith and Zaza 's extended bedroom sequence ... is so intimate and sensual and funny and psychologically self-revealing that it makes most of what passes for sex in the movies look like cheap hysterics .	
+Escore: 1
+Comparações ABP: 948
+Comparações AVL: 778
+
+Frase: Uneven performances and a spotty script add up to a biting satire that has no teeth .	
+Escore: 0
+Comparações ABP: 384
+Comparações AVL: 376
+
+Frase: ... irritating soul-searching garbage .	
+Escore: 0
+Comparações ABP: 88
+Comparações AVL: 90
+
+Frase: A solid , spooky entertainment worthy of the price of a ticket .	
+Escore: 0
+Comparações ABP: 332
+Comparações AVL: 274
+
+Frase: Ultimately , clarity matters , both in breaking codes and making movies .	
+Escore: 0
+Comparações ABP: 290
+Comparações AVL: 248
+
+Frase: In comparison to his earlier films it seems a disappointingly thin slice of lower-class London life ; despite the title ... amounts to surprisingly little .	
+Escore: 0
+Comparações ABP: 602
+Comparações AVL: 530
+
+Frase: Proves mainly that South Korean filmmakers can make undemanding action movies with all the alacrity of their Hollywood counterparts .	
+Escore: 0
+Comparações ABP: 506
+Comparações AVL: 444
+
+Frase: Except it 's much , much better .	
+Escore: 0
+Comparações ABP: 152
+Comparações AVL: 154
+
+Frase: It is a happy , heady jumble of thought and storytelling , an insane comic undertaking that ultimately coheres into a sane and breathtakingly creative film .	
+Escore: 2
+Comparações ABP: 680
+Comparações AVL: 556
+
+Frase: There is more than one joke about putting the toilet seat down .	
+Escore: 0
+Comparações ABP: 328
+Comparações AVL: 292
+
+Frase: has -RRB-	
+Escore: 0
+Comparações ABP: 52
+Comparações AVL: 62
+
+Frase: So original in its base concept that you can not help but get caught up .	
+Escore: 0
+Comparações ABP: 376
+Comparações AVL: 366
+
+Frase: It appears to have been made by people to whom the idea of narrative logic or cohesion is an entirely foreign concept .	
+Escore: 0
+Comparações ABP: 622
+Comparações AVL: 522
+
+Frase: If you ignore the cliches and concentrate on City by the Sea 's interpersonal drama , it ai n't half-bad .	
+Escore: 0
+Comparações ABP: 526
+Comparações AVL: 468
+
+Frase: A dreadful day in Irish history is given passionate , if somewhat flawed , treatment .	
+Escore: -1
+Comparações ABP: 348
+Comparações AVL: 318
+
+Frase: See it .	
+Escore: 0
+Comparações ABP: 50
+Comparações AVL: 66
+
+Frase: Nothing but an episode of Smackdown !	
+Escore: 0
+Comparações ABP: 184
+Comparações AVL: 156
+
+Frase: A guilty pleasure at best , and not worth seeing unless you want to laugh at it .	
+Escore: 2
+Comparações ABP: 392
+Comparações AVL: 378
+
+Frase: Perhaps a better celebration of these unfairly dismissed heroes would be a film that is n't this painfully forced , false and fabricated .	
+Escore: -1
+Comparações ABP: 610
+Comparações AVL: 534
+
+Frase: A relative letdown .	
+Escore: 0
+Comparações ABP: 86
+Comparações AVL: 86
+
+Frase: ` Hey Arnold ! '	
+Escore: 0
+Comparações ABP: 54
+Comparações AVL: 86
+
+Frase: But though he only scratches the surface , at least he provides a strong itch to explore more .	
+Escore: 0
+Comparações ABP: 464
+Comparações AVL: 390
+
+Frase: The band performances featured in Drumline are red hot ... -LRB- but -RRB- from a mere story point of view , the film 's ice cold .	
+Escore: 0
+Comparações ABP: 600
+Comparações AVL: 562
+
+Frase: A non-mystery mystery .	
+Escore: -1
+Comparações ABP: 90
+Comparações AVL: 86
+
+Frase: Leigh is one of the rare directors who feels acting is the heart and soul of cinema .	
+Escore: 0
+Comparações ABP: 504
+Comparações AVL: 410
+
+Frase: The cast delivers without sham the raw-nerved story .	
+Escore: 0
+Comparações ABP: 202
+Comparações AVL: 194
+
+Frase: This is a monumental achievement in practically every facet of inept filmmaking : joyless , idiotic , annoying , heavy-handed , visually atrocious , and often downright creepy .	
+Escore: -3
+Comparações ABP: 620
+Comparações AVL: 516
+
+Frase: The filmmaker 's heart is in the right place ...	
+Escore: 1
+Comparações ABP: 260
+Comparações AVL: 226
+
+Frase: One of the most highly-praised disappointments I 've had the misfortune to watch in quite some time .	
+Escore: -1
+Comparações ABP: 470
+Comparações AVL: 406
+
+Frase: Rock 's stand-up magic wanes .	
+Escore: 0
+Comparações ABP: 126
+Comparações AVL: 132
+
+Frase: Roman Polanski directs The Pianist like a surgeon mends a broken heart ; very meticulously but without any passion .	
+Escore: 2
+Comparações ABP: 408
+Comparações AVL: 416
+
+Frase: Sadly , ` Garth ' has n't progressed as nicely as ` Wayne . '	
+Escore: 1
+Comparações ABP: 302
+Comparações AVL: 286
+
+Frase: With wit and empathy to spare , waydowntown acknowledges the silent screams of workaday inertia but stops short of indulging its characters ' striving solipsism .	
+Escore: 1
+Comparações ABP: 608
+Comparações AVL: 534
+
+Frase: It labours as storytelling .	
+Escore: 0
+Comparações ABP: 116
+Comparações AVL: 108
+
+Frase: Remember back when thrillers actually thrilled ?	
+Escore: 0
+Comparações ABP: 154
+Comparações AVL: 156
+
+Frase: The otherwise good-naturedness of Mr. Deeds , with its embrace of sheer goofiness and cameos of less - than-likely New York celebrities ... certainly raises the film above anything Sandler 's been attached to before .	
+Escore: 0
+Comparações ABP: 854
+Comparações AVL: 762
+
+Frase: Fails so fundamentally on every conventional level that it achieves some kind of goofy grandeur .	
+Escore: -1
+Comparações ABP: 420
+Comparações AVL: 362
+
+Frase: ... a ho-hum affair , always watchable yet hardly memorable .	
+Escore: 1
+Comparações ABP: 202
+Comparações AVL: 188
+
+Frase: I just saw this movie ... well , it 's probably not accurate to call it a movie .	
+Escore: 1
+Comparações ABP: 428
+Comparações AVL: 384
+
+Frase: Though uniformly well acted , especially by young Ballesta and Galan -LRB- a first-time actor -RRB- , writer\/director Achero Manas 's film is schematic and obvious .	
+Escore: 1
+Comparações ABP: 582
+Comparações AVL: 574
+
+Frase: When you resurrect a dead man , Hard Copy should come a-knocking , no ?	
+Escore: 0
+Comparações ABP: 278
+Comparações AVL: 292
+
+Frase: If the idea of the white man arriving on foreign shores to show wary natives the true light is abhorrent to you , the simplistic Heaven will quite likely be more like hell .	
+Escore: 0
+Comparações ABP: 838
+Comparações AVL: 758
+
+Frase: It 's hard to believe that a relationship like Holly and Marina 's could survive the hothouse emotions of teendom , and its longevity gets more inexplicable as the characterizations turn more crassly reductive .	
+Escore: 1
+Comparações ABP: 898
+Comparações AVL: 776
+
+Frase: For a movie audience , The Hours does n't connect in a neat way , but introduces characters who illuminate mysteries of sex , duty and love .	
+Escore: 2
+Comparações ABP: 634
+Comparações AVL: 570
+
+Frase: Purports to be a Hollywood satire but winds up as the kind of film that should be the target of something deeper and more engaging .	
+Escore: 0
+Comparações ABP: 702
+Comparações AVL: 594
+
+Frase: Too clever by about nine-tenths .	
+Escore: 0
+Comparações ABP: 122
+Comparações AVL: 134
+
+Frase: This is no `` Waterboy ! ''	
+Escore: 0
+Comparações ABP: 110
+Comparações AVL: 134
+
+Frase: They 're going through the motions , but the zip is gone .	
+Escore: 0
+Comparações ABP: 280
+Comparações AVL: 270
+
+Frase: The script 's snazzy dialogue establishes a realistic atmosphere that involves us in the unfolding crisis , but the lazy plotting ensures that little of our emotional investment pays off .	
+Escore: 0
+Comparações ABP: 856
+Comparações AVL: 704
+
+Frase: Not as good as the original , but what is ...	
+Escore: 0
+Comparações ABP: 240
+Comparações AVL: 230
+
+Frase: Those moviegoers who would automatically bypass a hip-hop documentary should give `` Scratch '' a second look .	
+Escore: 0
+Comparações ABP: 340
+Comparações AVL: 376
+
+Frase: Bigelow offers some flashy twists and turns that occasionally fortify this turgid fable .	
+Escore: -1
+Comparações ABP: 364
+Comparações AVL: 312
+
+Frase: An unsophisticated sci-fi drama that takes itself all too seriously .	
+Escore: -1
+Comparações ABP: 248
+Comparações AVL: 242
+
+Frase: Stupid , infantile , redundant , sloppy , over-the-top , and amateurish .	
+Escore: 0
+Comparações ABP: 198
+Comparações AVL: 178
+
+Frase: Resident Evil is what comes from taking John Carpenter 's Ghosts of Mars and eliminating the beheadings .	
+Escore: 0
+Comparações ABP: 398
+Comparações AVL: 400
+
+Frase: The movie resolutely avoids all the comic possibilities of its situation , and becomes one more dumb high school comedy about sex gags and prom dates .	
+Escore: -1
+Comparações ABP: 730
+Comparações AVL: 574
+
+Frase: With or without the sex , a wonderful tale of love and destiny , told well by a master storyteller	
+Escore: 4
+Comparações ABP: 456
+Comparações AVL: 412
+
+Frase: Though it goes further than both , anyone who has seen The Hunger or Cat People will find little new here , but a tasty performance from Vincent Gallo lifts this tale of cannibal lust above the ordinary .	
+Escore: 0
+Comparações ABP: 834
+Comparações AVL: 822
+
+Frase: A terrific date movie , whatever your orientation .	
+Escore: 1
+Comparações ABP: 180
+Comparações AVL: 176
+
+Frase: Once the expectation of laughter has been quashed by whatever obscenity is at hand , even the funniest idea is n't funny .	
+Escore: 0
+Comparações ABP: 608
+Comparações AVL: 518
+
+Frase: How do you make a movie with depth about a man who lacked any ?	
+Escore: 0
+Comparações ABP: 352
+Comparações AVL: 332
+
+Frase: Translation : ` We do n't need to try very hard . '	
+Escore: 0
+Comparações ABP: 284
+Comparações AVL: 262
+
+Frase: `` Frailty '' offers chills much like those that you get when sitting around a campfire around midnight , telling creepy stories to give each other the willies .	
+Escore: 1
+Comparações ABP: 662
+Comparações AVL: 616
+
+Frase: Less front-loaded and more shapely than the two-hour version released here in 1990 .	
+Escore: 0
+Comparações ABP: 320
+Comparações AVL: 310
+
+Frase: An ambitious movie that , like Shiner 's organizing of the big fight , pulls off enough of its effects to make up for the ones that do n't come off .	
+Escore: 1
+Comparações ABP: 918
+Comparações AVL: 716
+
+Frase: Some movies suck you in despite their flaws , and Heaven is one such beast .	
+Escore: 0
+Comparações ABP: 390
+Comparações AVL: 334
+
+Frase: Very well written and directed with brutal honesty and respect for its audience .	
+Escore: 2
+Comparações ABP: 340
+Comparações AVL: 308
+
+Frase: Twenty years after its first release , E.T. remains the most wondrous of all Hollywood fantasies -- and the apex of Steven Spielberg 's misunderstood career .	
+Escore: -1
+Comparações ABP: 610
+Comparações AVL: 586
+
+Frase: Gooding offers a desperately ingratiating performance .	
+Escore: -1
+Comparações ABP: 176
+Comparações AVL: 160
+
+Frase: ... stumbles over every cheap trick in the book trying to make the outrage come even easier .	
+Escore: -2
+Comparações ABP: 458
+Comparações AVL: 376
+
+Frase: Nicely combines the enigmatic features of ` Memento ' with the hallucinatory drug culture of ` Requiem for a Dream . '	
+Escore: 0
+Comparações ABP: 484
+Comparações AVL: 454
+
+Frase: Every individual will see the movie through the prism of his or her own beliefs and prejudices , but the one thing most will take away is the sense that peace is possible .	
+Escore: 0
+Comparações ABP: 912
+Comparações AVL: 744
+
+Frase: Just a bunch of good actors flailing around in a caper that 's neither original nor terribly funny .	
+Escore: -1
+Comparações ABP: 466
+Comparações AVL: 434
+
+Frase: This ill-conceived and expensive project winds up looking like a bunch of talented thesps slumming it .	
+Escore: 0
+Comparações ABP: 416
+Comparações AVL: 372
+
+Frase: Broder 's screenplay is shallow , offensive and redundant , with pitifully few real laughs .	
+Escore: -1
+Comparações ABP: 368
+Comparações AVL: 318
+
+Frase: Leguizamo and Jones are both excellent and the rest of the cast is uniformly superb .	
+Escore: 0
+Comparações ABP: 424
+Comparações AVL: 370
+
+Frase: Trying to figure out the rules of the Country Bear universe -- when are bears bears and when are they like humans , only hairier -- would tax Einstein 's brain .	
+Escore: 1
+Comparações ABP: 742
+Comparações AVL: 702
+
+Frase: `` Feardotcom '' has the makings of an interesting meditation on the ethereal nature of the internet and the otherworldly energies it could channel , but it simply becomes a routine shocker .	
+Escore: 0
+Comparações ABP: 884
+Comparações AVL: 716
+
+Frase: Delia , Greta , and Paula rank as three of the most multilayered and sympathetic female characters of the year .	
+Escore: 0
+Comparações ABP: 524
+Comparações AVL: 428
+
+Frase: The beauty of Alexander Payne 's ode to the Everyman is in the details .	
+Escore: 0
+Comparações ABP: 366
+Comparações AVL: 342
+
+Frase: The town has kind of an authentic feel , but each one of these people stand out and everybody else is in the background and it just seems manufactured to me and artificial .	
+Escore: 1
+Comparações ABP: 972
+Comparações AVL: 748
+
+Frase: Julie Davis is the Kathie Lee Gifford of film directors , sadly proving once again ego does n't always go hand in hand with talent .	
+Escore: 0
+Comparações ABP: 652
+Comparações AVL: 568
+
+Frase: Much credit must be given to the water-camera operating team of Don King , Sonny Miller , and Michael Stewart .	
+Escore: 0
+Comparações ABP: 430
+Comparações AVL: 426
+
+Frase: In this film , Aussie David Caesar channels the not-quite-dead career of Guy Ritchie .	
+Escore: 0
+Comparações ABP: 306
+Comparações AVL: 318
+
+Frase: As averse as I usually am to feel-good , follow-your-dream Hollywood fantasies , this one got to me .	
+Escore: 0
+Comparações ABP: 434
+Comparações AVL: 370
+
+Frase: Maybe it is formula filmmaking , but there 's nothing wrong with that if the film is well-crafted and this one is .	
+Escore: 0
+Comparações ABP: 570
+Comparações AVL: 506
+
+Frase: Would you laugh if a tuba-playing dwarf rolled down a hill in a trash can ?	
+Escore: 0
+Comparações ABP: 354
+Comparações AVL: 356
+
+Frase: Loses its sense of humor in a vat of failed jokes , twitchy acting , and general boorishness .	
+Escore: -1
+Comparações ABP: 428
+Comparações AVL: 382
+
+Frase: This misty-eyed Southern nostalgia piece , in treading the line between sappy and sanguine , winds up mired in tear-drenched quicksand .	
+Escore: 0
+Comparações ABP: 508
+Comparações AVL: 454
+
+Frase: To be oblivious to the existence of this film would be very sweet indeed .	
+Escore: -1
+Comparações ABP: 382
+Comparações AVL: 340
+
+Frase: Despite its flaws ... Belinsky is still able to create an engaging story that keeps you guessing at almost every turn .	
+Escore: 0
+Comparações ABP: 518
+Comparações AVL: 466
+
+Frase: A porn film without the sex scenes .	
+Escore: 0
+Comparações ABP: 184
+Comparações AVL: 176
+
+Frase: The movie plays up the cartoon 's more obvious strength of snazziness while neglecting its less conspicuous writing strength .	
+Escore: 0
+Comparações ABP: 526
+Comparações AVL: 450
+
+Frase: Notwithstanding my problem with the movie 's final half hour , I 'm going to recommend SECRETARY , based on the wonderful acting clinic put on by Spader and Gyllenhaal , and also the unique way Shainberg goes about telling what at heart is a sweet little girl -	
+Escore: 0
+Comparações ABP: 1162
+Comparações AVL: 1056
+
+Frase: Despite slick production values and director Roger Michell 's tick-tock pacing , the final effect is like having two guys yelling in your face for two hours .	
+Escore: 1
+Comparações ABP: 682
+Comparações AVL: 606
+
+Frase: `` Barbershop '' is a good-hearted ensemble comedy with a variety of quirky characters and an engaging story .	
+Escore: 0
+Comparações ABP: 474
+Comparações AVL: 398
+
+Frase: A soulless jumble of ineptly assembled cliches and pabulum that plays like a 95-minute commercial for NBA properties .	
+Escore: 1
+Comparações ABP: 510
+Comparações AVL: 434
+
+Frase: An ambitious , serious film that manages to do virtually everything wrong ; sitting through it is something akin to an act of cinematic penance .	
+Escore: 0
+Comparações ABP: 634
+Comparações AVL: 534
+
+Frase: Consistently clever and suspenseful .	
+Escore: 0
+Comparações ABP: 108
+Comparações AVL: 108
+
+Frase: Soderbergh skims the fat from the 1972 film .	
+Escore: 0
+Comparações ABP: 192
+Comparações AVL: 200
+
+Frase: Hilarious musical comedy though stymied by accents thick as mud .	
+Escore: 0
+Comparações ABP: 272
+Comparações AVL: 248
+
+Frase: A movie like The Guys is why film criticism can be considered work .	
+Escore: 2
+Comparações ABP: 314
+Comparações AVL: 310
+
+Frase: Anyone who suffers through this film deserves , at the very least , a big box of consolation candy .	
+Escore: 0
+Comparações ABP: 458
+Comparações AVL: 404
+
+Frase: Bearable .	
+Escore: 0
+Comparações ABP: 26
+Comparações AVL: 42
+
+Frase: Cremaster 3 is at once a tough pill to swallow and a minor miracle of self-expression .	
+Escore: 0
+Comparações ABP: 410
+Comparações AVL: 392
+
+Frase: But Kouyate elicits strong performances from his cast , and he delivers a powerful commentary on how governments lie , no matter who runs them .	
+Escore: -1
+Comparações ABP: 624
+Comparações AVL: 530
+
+Frase: See it for his performance if nothing else .	
+Escore: 0
+Comparações ABP: 242
+Comparações AVL: 208
+
+Frase: The asylum material is gripping , as are the scenes of Jia with his family .	
+Escore: 0
+Comparações ABP: 356
+Comparações AVL: 338
+
+Frase: I walked away from this new version of E.T. just as I hoped I would -- with moist eyes .	
+Escore: 0
+Comparações ABP: 476
+Comparações AVL: 472
+
+Frase: Attal pushes too hard to make this a comedy or serious drama .	
+Escore: 0
+Comparações ABP: 336
+Comparações AVL: 292
+
+Frase: plays like some corny television production from a bygone era	
+Escore: 1
+Comparações ABP: 282
+Comparações AVL: 242
+
+Frase: It 's a powerful though flawed movie , guaranteed to put a lump in your throat while reaffirming Washington as possibly the best actor working in movies today .	
+Escore: 0
+Comparações ABP: 690
+Comparações AVL: 624
+
+Frase: Solondz may well be the only one laughing at his own joke	
+Escore: 1
+Comparações ABP: 324
+Comparações AVL: 292
+
+Frase: Here 's a case of two actors who do everything humanly possible to create characters who are sweet and believable , and are defeated by a screenplay that forces them into bizarre , implausible behavior .	
+Escore: 0
+Comparações ABP: 856
+Comparações AVL: 748
+
+Frase: Any enjoyment will be hinge from a personal threshold of watching sad but endearing characters do extremely unconventional things .	
+Escore: 1
+Comparações ABP: 508
+Comparações AVL: 436
+
+Frase: Some Body smacks of exhibitionism more than it does cathartic truth telling .	
+Escore: 0
+Comparações ABP: 320
+Comparações AVL: 288
+
+Frase: Though writer\/director Bart Freundlich 's film ultimately becomes a simplistic story about a dysfunctional parent-child relationship , it has some special qualities and the soulful gravity of Crudup 's anchoring performance .	
+Escore: 0
+Comparações ABP: 820
+Comparações AVL: 726
+
+Frase: -LRB- Carvey 's -RRB- characters are both overplayed and exaggerated , but then again , subtlety has never been his trademark .	
+Escore: 0
+Comparações ABP: 482
+Comparações AVL: 438
+
+Frase: This beautifully animated epic is never dull .	
+Escore: 0
+Comparações ABP: 218
+Comparações AVL: 174
+
+Frase: Charming and witty , it 's also somewhat clumsy .	
+Escore: 0
+Comparações ABP: 224
+Comparações AVL: 198
+
+Frase: In one scene , we get a stab at soccer hooliganism , a double-barreled rip-off of Quentin Tarantino 's climactic shootout -- and Meat Loaf explodes .	
+Escore: -1
+Comparações ABP: 584
+Comparações AVL: 564
+
+Frase: frustratingly refuses to give Pinochet 's crimes a political context	
+Escore: -1
+Comparações ABP: 246
+Comparações AVL: 250
+
+Frase: Paul Bettany playing Malcolm McDowell ?	
+Escore: 0
+Comparações ABP: 106
+Comparações AVL: 130
+
+Frase: A serviceable Euro-trash action extravaganza , with a decent sense of humor and plenty of things that go boom -- handguns , BMWs and seaside chateaus .	
+Escore: 0
+Comparações ABP: 624
+Comparações AVL: 554
+
+Frase: Veterans of the dating wars will smirk uneasily at the film 's nightmare versions of everyday sex-in-the-city misadventures .	
+Escore: -1
+Comparações ABP: 502
+Comparações AVL: 418
+
+Frase: It sends you away a believer again and quite cheered at just that .	
+Escore: 0
+Comparações ABP: 328
+Comparações AVL: 308
+
+Frase: The rollerball sequences feel sanitised and stagey .	
+Escore: 0
+Comparações ABP: 200
+Comparações AVL: 178
+
+Frase: Interview With the Assassin is structured less as a documentary and more as a found relic , and as such the film has a difficult time shaking its Blair Witch Project real-time roots .	
+Escore: -1
+Comparações ABP: 816
+Comparações AVL: 736
+
+Frase: It is most remarkable not because of its epic scope , but because of the startling intimacy it achieves despite that breadth .	
+Escore: 0
+Comparações ABP: 594
+Comparações AVL: 500
+
+Frase: A nearly 21\/2 hours , the film is way too indulgent .	
+Escore: 0
+Comparações ABP: 284
+Comparações AVL: 270
+
+Frase: Seems like something American and European gay movies were doing 20 years ago .	
+Escore: 1
+Comparações ABP: 316
+Comparações AVL: 306
+
+Frase: Claims to sort the bad guys from the good , which is its essential problem .	
+Escore: -1
+Comparações ABP: 364
+Comparações AVL: 336
+
+Frase: Mana gives us compelling , damaged characters who we want to help -- or hurt .	
+Escore: 0
+Comparações ABP: 338
+Comparações AVL: 330
+
+Frase: Good-looking but relentlessly lowbrow outing plays like Clueless Does South Fork .	
+Escore: 1
+Comparações ABP: 250
+Comparações AVL: 266
+
+Frase: Evokes a palpable sense of disconnection , made all the more poignant by the incessant use of cell phones .	
+Escore: 0
+Comparações ABP: 528
+Comparações AVL: 432
+
+Frase: The concept is a hoot .	
+Escore: 0
+Comparações ABP: 120
+Comparações AVL: 136
+
+Frase: A straight-shooting family film which awards animals the respect they 've rarely been given .	
+Escore: 1
+Comparações ABP: 380
+Comparações AVL: 326
+
+Frase: The directive to protect the code at all costs also begins to blur as the importance of the man and the code merge	
+Escore: -1
+Comparações ABP: 650
+Comparações AVL: 534
+
+Frase: What Eric Schaeffer has accomplished with Never Again may not , strictly speaking , qualify as revolutionary .	
+Escore: 0
+Comparações ABP: 368
+Comparações AVL: 350
+
+Frase: Obvious , obnoxious and didactic burlesque .	
+Escore: 0
+Comparações ABP: 152
+Comparações AVL: 136
+
+Frase: What can one say about a balding 50-year-old actor playing an innocent boy carved from a log ?	
+Escore: 0
+Comparações ABP: 412
+Comparações AVL: 400
+
+Frase: Ca n't seem to get anywhere near the story 's center .	
+Escore: 0
+Comparações ABP: 314
+Comparações AVL: 280
+
+Frase: Even with its $ 50-million US budget , Pinocchio never quite achieves the feel of a fanciful motion picture .	
+Escore: -1
+Comparações ABP: 442
+Comparações AVL: 396
+
+Frase: A little more intensity and a little less charm would have saved this film a world of hurt .	
+Escore: 0
+Comparações ABP: 498
+Comparações AVL: 422
+
+Frase: Like most of Jaglom 's films , some of it is honestly affecting , but more of it seems contrived and secondhand .	
+Escore: 0
+Comparações ABP: 554
+Comparações AVL: 484
+
+Frase: Maelstrom is a deliberately unsteady mixture of stylistic elements .	
+Escore: 0
+Comparações ABP: 268
+Comparações AVL: 222
+
+Frase: Just bring on the Battle Bots , please !	
+Escore: 0
+Comparações ABP: 180
+Comparações AVL: 178
+
+Frase: Sweet Home Alabama is n't going to win any Academy Awards , but this date-night diversion will definitely win some hearts .	
+Escore: 0
+Comparações ABP: 526
+Comparações AVL: 478
+
+Frase: Love may have been in the air onscreen , but I certainly was n't feeling any of it .	
+Escore: 0
+Comparações ABP: 492
+Comparações AVL: 414
+
+Frase: Too long , and larded with exposition , this somber cop drama ultimately feels as flat as the scruffy sands of its titular community .	
+Escore: 0
+Comparações ABP: 624
+Comparações AVL: 520
+
+Frase: The young stars are too cute ; the story and ensuing complications are too manipulative ; the message is too blatant ; the resolutions are too convenient .	
+Escore: 1
+Comparações ABP: 666
+Comparações AVL: 572
+
+Frase: In some ways , Lagaan is quintessential Bollywood .	
+Escore: 0
+Comparações ABP: 170
+Comparações AVL: 178
+
+Frase: A characteristically engorged and sloppy coming-of-age movie .	
+Escore: 0
+Comparações ABP: 214
+Comparações AVL: 174
+
+Frase: A wry , affectionate delight .	
+Escore: 1
+Comparações ABP: 104
+Comparações AVL: 102
+
+Frase: Credit director Ramsay for taking the sometimes improbable story and making it feel realistic .	
+Escore: 0
+Comparações ABP: 386
+Comparações AVL: 336
+
+Frase: The auteur 's ear for the way fears and slights are telegraphed in the most blithe exchanges gives the film its lingering tug .	
+Escore: 0
+Comparações ABP: 644
+Comparações AVL: 548
+
+Frase: Gets better after Foster leaves that little room .	
+Escore: 0
+Comparações ABP: 202
+Comparações AVL: 198
+
+Frase: Despite its lavish formalism and intellectual austerity , the film manages to keep you at the edge of your seat with its shape-shifting perils , political intrigue and brushes with calamity .	
+Escore: 1
+Comparações ABP: 782
+Comparações AVL: 684
+
+Frase: Friday After Next is the kind of film that could only be made by African-Americans because of its broad racial insensitivity towards African-Americans .	
+Escore: 0
+Comparações ABP: 614
+Comparações AVL: 548
+
+Frase: As lively an account as Seinfeld is deadpan .	
+Escore: 0
+Comparações ABP: 228
+Comparações AVL: 200
+
+Frase: Brings awareness to an issue often overlooked -- women 's depression .	
+Escore: -1
+Comparações ABP: 296
+Comparações AVL: 270
+
+Frase: Imagine a film that begins as a Seven rip-off , only to switch to a mix of The Shining , The Thing , and any naked teenagers horror flick from the 1980s .	
+Escore: 0
+Comparações ABP: 682
+Comparações AVL: 662
+
+Frase: Definitely funny stuff , but it 's more of the ` laughing at ' variety than the ` laughing with . '	
+Escore: 0
+Comparações ABP: 450
+Comparações AVL: 432
+
+Frase: A heartening tale of small victories and enduring hope .	
+Escore: 0
+Comparações ABP: 270
+Comparações AVL: 218
+
+Frase: An emotionally strong and politically potent piece of cinema .	
+Escore: 0
+Comparações ABP: 298
+Comparações AVL: 222
+
+Frase: An extremely unpleasant film .	
+Escore: -1
+Comparações ABP: 116
+Comparações AVL: 108
+
+Frase: More intellectually scary than dramatically involving .	
+Escore: -1
+Comparações ABP: 170
+Comparações AVL: 158
+
+Frase: A puzzling experience .	
+Escore: 0
+Comparações ABP: 98
+Comparações AVL: 88
+
+Frase: Jonah is only so-so ... the addition of a biblical message will either improve the film for you , or it will lessen it .	
+Escore: 0
+Comparações ABP: 582
+Comparações AVL: 520
+
+Frase: I hope the movie is widely seen and debated with appropriate ferocity and thoughtfulness .	
+Escore: -1
+Comparações ABP: 392
+Comparações AVL: 332
+
+Frase: Intelligent and moving .	
+Escore: 0
+Comparações ABP: 94
+Comparações AVL: 86
+
+Frase: This film is too busy hitting all of its assigned marks to take on any life of its own .	
+Escore: 0
+Comparações ABP: 532
+Comparações AVL: 450
+
+Frase: Mark Wahlberg ... may look classy in a '60s - homage pokepie hat , but as a character he 's dry , dry , dry .	
+Escore: 1
+Comparações ABP: 520
+Comparações AVL: 480
+
+Frase: The moral shrapnel and mental shellshock will linger long after this film has ended .	
+Escore: 0
+Comparações ABP: 404
+Comparações AVL: 330
+
+Frase: As Warren he stumbles in search of all the emotions and life experiences he 's neglected over the years .	
+Escore: -1
+Comparações ABP: 522
+Comparações AVL: 440
+
+Frase: It should have stayed there .	
+Escore: 0
+Comparações ABP: 128
+Comparações AVL: 128
+
+Frase: ... in the pile of useless actioners from MTV schmucks who do n't know how to tell a story for more than four minutes .	
+Escore: -1
+Comparações ABP: 636
+Comparações AVL: 556
+
+Frase: It is not the first time that director Sara Sugarman stoops to having characters drop their pants for laughs and not the last time she fails to provoke them .	
+Escore: -1
+Comparações ABP: 842
+Comparações AVL: 684
+
+Frase: There 's no point of view , no contemporary interpretation of Joan 's prefeminist plight , so we 're left thinking the only reason to make the movie is because present standards allow for plenty of nudity .	
+Escore: -1
+Comparações ABP: 1108
+Comparações AVL: 830
+
+Frase: There is a strong directorial stamp on every frame of this stylish film that is able to visualize schizophrenia but is still confident enough to step back and look at the sick character with a sane eye .	
+Escore: 0
+Comparações ABP: 948
+Comparações AVL: 840
+
+Frase: Romantic , riveting and handsomely animated .	
+Escore: 0
+Comparações ABP: 154
+Comparações AVL: 126
+
+Frase: This overproduced piece of dreck is shockingly bad and absolutely unnecessary .	
+Escore: -2
+Comparações ABP: 324
+Comparações AVL: 270
+
+Frase: As saccharine as it is disposable .	
+Escore: 0
+Comparações ABP: 158
+Comparações AVL: 156
+
+Frase: Captures the raw comic energy of one of our most flamboyant female comics .	
+Escore: 0
+Comparações ABP: 426
+Comparações AVL: 328
+
+Frase: A subtle , poignant picture of goodness that is flawed , compromised and sad .	
+Escore: 0
+Comparações ABP: 354
+Comparações AVL: 280
+
+Frase: An exceptionally acted , quietly affecting cop drama .	
+Escore: 0
+Comparações ABP: 194
+Comparações AVL: 174
+
+Frase: Even in the summertime , the most restless young audience deserves the dignity of an action hero motivated by something more than franchise possibilities .	
+Escore: 0
+Comparações ABP: 676
+Comparações AVL: 548
+
+Frase: Perfectly pitched between comedy and tragedy , hope and despair , About Schmidt instead comes far closer than many movies to expressing the way many of us live -- someplace between consuming self-absorption and insistently demanding otherness .	
+Escore: 0
+Comparações ABP: 980
+Comparações AVL: 816
+
+Frase: She nearly glows with enthusiasm , sensuality and a conniving wit .	
+Escore: 1
+Comparações ABP: 242
+Comparações AVL: 236
+
+Frase: Despite modest aspirations its occasional charms are not to be dismissed .	
+Escore: 0
+Comparações ABP: 312
+Comparações AVL: 270
+
+Frase: So exaggerated and broad that it comes off as annoying rather than charming .	
+Escore: 0
+Comparações ABP: 392
+Comparações AVL: 316
+
+Frase: Strange , funny , twisted , brilliant and macabre .	
+Escore: 0
+Comparações ABP: 156
+Comparações AVL: 152
+
+Frase: The film has the thrown-together feel of a summer-camp talent show : hastily written , underrehearsed , arbitrarily plotted and filled with crude humor and vulgar innuendo .	
+Escore: -3
+Comparações ABP: 688
+Comparações AVL: 560
+
+Frase: The cast comes through even when the movie does n't .	
+Escore: 0
+Comparações ABP: 296
+Comparações AVL: 266
+
+Frase: A rock-solid gangster movie with a fair amount of suspense , intriguing characters and bizarre bank robberies , plus a heavy dose of father-and-son dynamics .	
+Escore: -2
+Comparações ABP: 642
+Comparações AVL: 530
+
+Frase: It 's both degrading and strangely liberating to see people working so hard at leading lives of sexy intrigue , only to be revealed by the dispassionate Gantz brothers as ordinary , pasty lumpen .	
+Escore: -1
+Comparações ABP: 896
+Comparações AVL: 732
+
+Frase: Innocuous enough to make even Jean-Claude Van Damme look good .	
+Escore: 0
+Comparações ABP: 250
+Comparações AVL: 240
+
+Frase: But if the essence of magic is its make-believe promise of life that soars above the material realm , this is the opposite of a truly magical movie .	
+Escore: 0
+Comparações ABP: 798
+Comparações AVL: 644
+
+Frase: But its storytelling prowess and special effects are both listless .	
+Escore: 0
+Comparações ABP: 302
+Comparações AVL: 250
+
+Frase: I stopped thinking about how good it all was , and started doing nothing but reacting to it - feeling a part of its grand locations , thinking urgently as the protagonists struggled , feeling at the mercy of its inventiveness , gasping at its visual delights .	
+Escore: 0
+Comparações ABP: 1170
+Comparações AVL: 1016
+
+Frase: Newcomer helmer Kevin Donovan is hamstrung by a badly handled screenplay of what is really an amusing concept -- a high-tech tux that transforms its wearer into a superman .	
+Escore: -1
+Comparações ABP: 688
+Comparações AVL: 668
+
+Frase: One Hour Photo may seem disappointing in its generalities , but it 's the little nuances that perhaps had to escape from director Mark Romanek 's self-conscious scrutiny to happen , that finally get under your skin .	
+Escore: -1
+Comparações ABP: 862
+Comparações AVL: 808
+
+Frase: With a confrontational stance , Todd Solondz takes aim on political correctness and suburban families .	
+Escore: 0
+Comparações ABP: 360
+Comparações AVL: 326
+
+Frase: A processed comedy chop suey .	
+Escore: 0
+Comparações ABP: 142
+Comparações AVL: 132
+
+Frase: eventually arrives at its heart , as simple self-reflection meditation .	
+Escore: 0
+Comparações ABP: 256
+Comparações AVL: 224
+
+Frase: Proves a lovely trifle that , unfortunately , is a little too in love with its own cuteness .	
+Escore: 1
+Comparações ABP: 392
+Comparações AVL: 384
+
+Frase: So purely enjoyable that you might not even notice it 's a fairly straightforward remake of Hollywood comedies such as Father of the Bride .	
+Escore: 0
+Comparações ABP: 668
+Comparações AVL: 578
+
+Frase: An intelligent , multi-layered and profoundly humanist -LRB- not to mention gently political -RRB- meditation on the values of knowledge , education , and the affects of cultural and geographical displacement .	
+Escore: 1
+Comparações ABP: 848
+Comparações AVL: 658
+
+Frase: I 'm not sure which is worse : the poor acting by the ensemble cast , the flat dialogue by Vincent R. Nebrida or the gutless direction by Laurice Guillen .	
+Escore: -1
+Comparações ABP: 672
+Comparações AVL: 652
+
+Frase: A sexy , peculiar and always entertaining costume drama set in Renaissance Spain , and the fact that it 's based on true events somehow makes it all the more compelling .	
+Escore: 0
+Comparações ABP: 810
+Comparações AVL: 676
+
+Frase: The Santa Clause 2 proves itself a more streamlined and thought out encounter than the original could ever have hoped to be .	
+Escore: 2
+Comparações ABP: 602
+Comparações AVL: 508
+
+Frase: Goldmember has none of the visual wit of the previous pictures , and it looks as though Jay Roach directed the film from the back of a taxicab .	
+Escore: 0
+Comparações ABP: 752
+Comparações AVL: 640
+
+Frase: It 's a sweet , laugh-a-minute crowd pleaser that lifts your spirits as well as the corners of your mouth .	
+Escore: 1
+Comparações ABP: 514
+Comparações AVL: 456
+
+Frase: Highly recommended as an engrossing story about a horrifying historical event and the elements which contributed to it .	
+Escore: 0
+Comparações ABP: 490
+Comparações AVL: 420
+
+Frase: Goes on and on to the point of nausea .	
+Escore: 0
+Comparações ABP: 298
+Comparações AVL: 232
+
+Frase: -LRB- Raimi 's -RRB- matured quite a bit with Spider-Man , even though it 's one of the most plain white toast comic book films you 'll ever see .	
+Escore: 0
+Comparações ABP: 722
+Comparações AVL: 652
+
+Frase: It 's about as convincing as any other Arnie musclefest , but has a little too much resonance with real world events and ultimately comes off as insultingly simplistic .	
+Escore: 0
+Comparações ABP: 750
+Comparações AVL: 650
+
+Frase: An unbelievably stupid film , though occasionally fun enough to make you forget its absurdity .	
+Escore: -1
+Comparações ABP: 386
+Comparações AVL: 336
+
+Frase: In between the icy stunts , the actors spout hilarious dialogue about following your dream and ` just letting the mountain tell you what to do . '	
+Escore: 0
+Comparações ABP: 660
+Comparações AVL: 578
+
+Frase: A modestly surprising movie .	
+Escore: 0
+Comparações ABP: 108
+Comparações AVL: 108
+
+Frase: ... a powerful sequel and one of the best films of the year .	
+Escore: 1
+Comparações ABP: 362
+Comparações AVL: 292
+
+Frase: Combines improbable melodrama -LRB- gored bullfighters , comatose ballerinas -RRB- with subtly kinky bedside vigils and sensational denouements , and yet at the end , we are undeniably touched .	
+Escore: 0
+Comparações ABP: 678
+Comparações AVL: 600
+
+Frase: This is one of Mr. Chabrol 's subtlest works , but also one of his most uncanny .	
+Escore: 0
+Comparações ABP: 438
+Comparações AVL: 382
+
+Frase: This one is strictly a lightweight escapist film .	
+Escore: -1
+Comparações ABP: 216
+Comparações AVL: 196
+
+Frase: It 's actually too sincere -- the crime movie equivalent of a chick flick .	
+Escore: 0
+Comparações ABP: 374
+Comparações AVL: 336
+
+Frase: If the title is a Jeopardy question , then the answer might be `` How does Steven Seagal come across these days ? ''	
+Escore: 0
+Comparações ABP: 520
+Comparações AVL: 492
+
+Frase: Unambitious writing emerges in the movie , using a plot that could have come from an animated-movie screenwriting textbook .	
+Escore: 0
+Comparações ABP: 498
+Comparações AVL: 420
+
+Frase: Not that any of us should be complaining when a film clocks in around 90 minutes these days , but the plotting here leaves a lot to be desired .	
+Escore: -1
+Comparações ABP: 754
+Comparações AVL: 656
+
+Frase: There is a freedom to watching stunts that are this crude , this fast-paced and this insane .	
+Escore: 0
+Comparações ABP: 434
+Comparações AVL: 372
+
+Frase: ` This movie sucks . '	
+Escore: -1
+Comparações ABP: 98
+Comparações AVL: 110
+
+Frase: Dignified CEO 's meet at a rustic retreat and pee against a tree .	
+Escore: 0
+Comparações ABP: 306
+Comparações AVL: 312
+
+Frase: A sugar-coated Rocky whose valuable messages are forgotten 10 minutes after the last trombone honks .	
+Escore: 0
+Comparações ABP: 358
+Comparações AVL: 354
+
+Frase: The movie is too amateurishly square to make the most of its own ironic implications .	
+Escore: 0
+Comparações ABP: 440
+Comparações AVL: 366
+
+Frase: What sets this romantic comedy apart from most Hollywood romantic comedies is its low-key way of tackling what seems like done-to-death material .	
+Escore: 1
+Comparações ABP: 560
+Comparações AVL: 508
+
+Frase: The film 's constant mood of melancholy and its unhurried narrative are masterfully controlled .	
+Escore: 0
+Comparações ABP: 418
+Comparações AVL: 344
+
+Frase: Barry Sonnenfeld owes Frank the Pug big time	
+Escore: 0
+Comparações ABP: 172
+Comparações AVL: 204
+
+Frase: One gets the impression the creators of Do n't Ask Do n't Tell laughed a hell of a lot at their own jokes .	
+Escore: -1
+Comparações ABP: 630
+Comparações AVL: 588
+
+Frase: Schrader aims to present an unflinching look at one man 's downfall , brought about by his lack of self-awareness .	
+Escore: -1
+Comparações ABP: 546
+Comparações AVL: 440
+
+Frase: After that it becomes long and tedious like a classroom play in a college history course .	
+Escore: 0
+Comparações ABP: 410
+Comparações AVL: 384
+
+Frase: Blue Crush follows the formula , but throws in too many conflicts to keep the story compelling .	
+Escore: 0
+Comparações ABP: 424
+Comparações AVL: 384
+
+Frase: A small gem of a movie that defies classification and is as thought-provoking as it is funny , scary and sad .	
+Escore: -1
+Comparações ABP: 586
+Comparações AVL: 476
+
+Frase: Somewhere in the middle , the film compels , as Demme experiments he harvests a few movie moment gems , but the field of roughage dominates .	
+Escore: 0
+Comparações ABP: 646
+Comparações AVL: 538
+
+Frase: While the story is better-focused than the incomprehensible Anne Rice novel it 's based upon , Queen Of The Damned is a pointless , meandering celebration of the goth-vampire , tortured woe-is-me lifestyle .	
+Escore: -1
+Comparações ABP: 706
+Comparações AVL: 702
+
+Frase: The color sense of Stuart Little 2 is its most immediate and most obvious pleasure , but it would count for very little if the movie were n't as beautifully shaped and as delicately calibrated in tone as it is .	
+Escore: 0
+Comparações ABP: 1098
+Comparações AVL: 946
+
+Frase: Parts	
+Escore: 0
+Comparações ABP: 26
+Comparações AVL: 42
+
+Frase: In visual fertility Treasure Planet rivals the top Japanese animations of recent vintage .	
+Escore: 0
+Comparações ABP: 330
+Comparações AVL: 316
+
+Frase: This toothless Dog , already on cable , loses all bite on the big screen .	
+Escore: 0
+Comparações ABP: 342
+Comparações AVL: 310
+
+Frase: Make Chan 's action sequences boring .	
+Escore: 0
+Comparações ABP: 134
+Comparações AVL: 152
+
+Frase: It all comes down to whether you can tolerate Leon Barlow .	
+Escore: 0
+Comparações ABP: 252
+Comparações AVL: 262
+
+Frase: The Wild Thornberrys Movie has all the sibling rivalry and general family chaos to which anyone can relate .	
+Escore: -1
+Comparações ABP: 440
+Comparações AVL: 412
+
+Frase: Peralta captures , in luminous interviews and amazingly evocative film from three decades ago , the essence of the Dogtown experience .	
+Escore: 0
+Comparações ABP: 538
+Comparações AVL: 450
+
+Frase: As the movie dragged on , I thought I heard a mysterious voice , and felt myself powerfully drawn toward the light -- the light of the exit sign .	
+Escore: 0
+Comparações ABP: 732
+Comparações AVL: 616
+
+Frase: Will certainly appeal to Asian cult cinema fans and Asiaphiles interested to see what all the fuss is about .	
+Escore: 0
+Comparações ABP: 474
+Comparações AVL: 442
+
+Frase: Green ruins every single scene he 's in , and the film , while it 's not completely wreaked , is seriously compromised by that .	
+Escore: 0
+Comparações ABP: 574
+Comparações AVL: 518
+
+Frase: Evokes the frustration , the awkwardness and the euphoria of growing up , without relying on the usual tropes .	
+Escore: -1
+Comparações ABP: 462
+Comparações AVL: 396
+
+Frase: Standing in the Shadows of Motown is the best kind of documentary , one that makes a depleted yesterday feel very much like a brand-new tomorrow .	
+Escore: 3
+Comparações ABP: 648
+Comparações AVL: 584
+
+Frase: This is a very ambitious project for a fairly inexperienced filmmaker , but good actors , good poetry and good music help sustain it .	
+Escore: -1
+Comparações ABP: 598
+Comparações AVL: 516
+
+Frase: A thriller whose style , structure and rhythms are so integrated with the story , you can not separate them .	
+Escore: 0
+Comparações ABP: 472
+Comparações AVL: 426
+
+Frase: It 's mostly a pleasure to watch .	
+Escore: 0
+Comparações ABP: 182
+Comparações AVL: 178
+
+Frase: The first question to ask about Bad Company is why Anthony Hopkins is in it .	
+Escore: 0
+Comparações ABP: 346
+Comparações AVL: 358
+
+Frase: Nair and writer Laura Cahill dare to build a movie around some flawed but rather unexceptional women , emerging with a fine character study that 's short on plot but rich in the tiny revelations of real life .	
+Escore: -1
+Comparações ABP: 996
+Comparações AVL: 856
+
+Frase: Goofy , nutty , consistently funny .	
+Escore: 1
+Comparações ABP: 104
+Comparações AVL: 112
+
+Frase: Audiard successfully maintains suspense on different levels throughout a film that is both gripping and compelling .	
+Escore: 0
+Comparações ABP: 446
+Comparações AVL: 380
+
+Frase: Welles groupie\/scholar Peter Bogdanovich took a long time to do it , but he 's finally provided his own broadside at publishing giant William Randolph Hearst .	
+Escore: 0
+Comparações ABP: 654
+Comparações AVL: 602
+
+Frase: The most excruciating 86 minutes one might sit through this summer that do not involve a dentist drill .	
+Escore: -1
+Comparações ABP: 508
+Comparações AVL: 436
+
+Frase: Skillful as he is , Mr. Shyamalan is undone by his pretensions .	
+Escore: 0
+Comparações ABP: 282
+Comparações AVL: 264
+
+Frase: Fans of so-bad-they 're - good cinema may find some fun in this jumbled mess .	
+Escore: 0
+Comparações ABP: 410
+Comparações AVL: 360
+
+Frase: We started to wonder if ... some unpaid intern had just typed ` Chris Rock , ' ` Anthony Hopkins ' and ` terrorists ' into some Univac-like script machine .	
+Escore: 1
+Comparações ABP: 574
+Comparações AVL: 584
+
+Frase: Mostly works because of the universal themes , earnest performances ... and excellent use of music by India 's popular Gulzar and Jagjit Singh .	
+Escore: 2
+Comparações ABP: 584
+Comparações AVL: 522
+
+Frase: A perceptive , good-natured movie .	
+Escore: 0
+Comparações ABP: 108
+Comparações AVL: 110
+
+Frase: This is n't a stand up and cheer flick ; it 's a sit down and ponder affair .	
+Escore: 0
+Comparações ABP: 468
+Comparações AVL: 418
+
+Frase: One of the pleasures in Walter 's documentary ... is the parade of veteran painters , confounded dealers , and miscellaneous bohos who expound upon the subject 's mysterious personality without ever explaining him .	
+Escore: -1
+Comparações ABP: 866
+Comparações AVL: 716
+
+Frase: Adrift , Bentley and Hudson stare and sniffle , respectively , as Ledger attempts , in vain , to prove that movie-star intensity can overcome bad hair design .	
+Escore: -1
+Comparações ABP: 636
+Comparações AVL: 540
+
+Frase: The real charm of this trifle is the deadpan comic face of its star , Jean Reno , who resembles Sly Stallone in a hot sake half-sleep .	
+Escore: 1
+Comparações ABP: 652
+Comparações AVL: 588
+
+Frase: And there 's an element of heartbreak to watching it now , with older and wiser eyes , because we know what will happen after Greene 's story ends .	
+Escore: 0
+Comparações ABP: 732
+Comparações AVL: 624
+
+Frase: Rather than real figures	
+Escore: 0
+Comparações ABP: 114
+Comparações AVL: 108
+
+Frase: By no means a great movie , but it is a refreshingly forthright one .	
+Escore: 0
+Comparações ABP: 338
+Comparações AVL: 314
+
+Frase: Not just unlikable .	
+Escore: 0
+Comparações ABP: 82
+Comparações AVL: 86
+
+Frase: Show me the mugging .	
+Escore: 0
+Comparações ABP: 116
+Comparações AVL: 110
+
+Frase: Hashiguchi uses the situation to evoke a Japan bustling atop an undercurrent of loneliness and isolation .	
+Escore: 0
+Comparações ABP: 424
+Comparações AVL: 388
+
+Frase: It 's a rollicking adventure for you and all your mateys , regardless of their ages .	
+Escore: 0
+Comparações ABP: 394
+Comparações AVL: 356
+
+Frase: The next big thing 's not-so-big -LRB- and not-so-hot -RRB- directorial debut .	
+Escore: 0
+Comparações ABP: 334
+Comparações AVL: 296
+
+Frase: If you 're content with a clever pseudo-bio that manages to have a good time as it doles out pieces of the famous director 's life , Eisenstein delivers .	
+Escore: 0
+Comparações ABP: 774
+Comparações AVL: 650
+
+Frase: Overly long and worshipful bio-doc .	
+Escore: 0
+Comparações ABP: 128
+Comparações AVL: 134
+
+Frase: A visual spectacle full of stunning images and effects .	
+Escore: 0
+Comparações ABP: 252
+Comparações AVL: 226
+
+Frase: There is something that is so meditative and lyrical about Babak Payami 's boldly quirky Iranian drama Secret Ballot ... a charming and evoking little ditty that manages to show the gentle and humane side of Middle Eastern world politics	
+Escore: 2
+Comparações ABP: 992
+Comparações AVL: 884
+
+Frase: It 's easy to be cynical about documentaries in which underdogs beat the odds and the human spirit triumphs , but Westbrook 's foundation and Dalrymple 's film earn their uplift .	
+Escore: -1
+Comparações ABP: 794
+Comparações AVL: 696
+
+Frase: The difference is that I truly enjoyed most of Mostly Martha while I ne	
+Escore: 0
+Comparações ABP: 360
+Comparações AVL: 344
+
+Frase: I ca n't remember the last time I saw a movie where I wanted so badly for the protagonist to fail .	
+Escore: -1
+Comparações ABP: 580
+Comparações AVL: 524
+
+Frase: Falsehoods pile up , undermining the movie 's reality and stifling its creator 's comic voice .	
+Escore: 0
+Comparações ABP: 408
+Comparações AVL: 362
+
+Frase: The early and middle passages are surprising in how much they engage and even touch us .	
+Escore: 0
+Comparações ABP: 494
+Comparações AVL: 388
+
+Frase: Limps along on a squirm-inducing fish-out-of-water formula that goes nowhere and goes there very , very slowly .	
+Escore: 0
+Comparações ABP: 442
+Comparações AVL: 384
+
+Frase: A really funny fifteen-minute short stretched beyond its limits to fill an almost feature-length film .	
+Escore: 0
+Comparações ABP: 406
+Comparações AVL: 352
+
+Frase: Writer and director Otar Iosseliani 's pleasant tale about a factory worker who escapes for a holiday in Venice reveals how we all need a playful respite from the grind to refresh our souls .	
+Escore: 3
+Comparações ABP: 838
+Comparações AVL: 782
+
+Frase: A mechanical action-comedy whose seeming purpose is to market the charismatic Jackie Chan to even younger audiences .	
+Escore: 0
+Comparações ABP: 426
+Comparações AVL: 394
+
+Frase: Chalk it up as the worst kind of hubristic folly .	
+Escore: -1
+Comparações ABP: 282
+Comparações AVL: 258
+
+Frase: Though Haynes ' style apes films from the period ... its message is not rooted in that decade .	
+Escore: 0
+Comparações ABP: 432
+Comparações AVL: 386
+
+Frase: But I do .	
+Escore: 0
+Comparações ABP: 72
+Comparações AVL: 86
+
+Frase: A compelling allegory about the last days of Germany 's democratic Weimar Republic .	
+Escore: 0
+Comparações ABP: 346
+Comparações AVL: 310
+
+Frase: Director Jay Russell stomps in hobnail boots over Natalie Babbitt 's gentle , endearing 1975 children 's novel .	
+Escore: 1
+Comparações ABP: 394
+Comparações AVL: 396
+
+Frase: It is an indelible epic American story about two families , one black and one white , facing change in both their inner and outer lives .	
+Escore: 0
+Comparações ABP: 680
+Comparações AVL: 570
+
+Frase: It 's as raw and action-packed an experience as a ringside seat at a tough-man contest .	
+Escore: 0
+Comparações ABP: 418
+Comparações AVL: 382
+
+Frase: ... -LRB- the film -RRB- works , due mostly to the tongue-in-cheek attitude of the screenplay .	
+Escore: 0
+Comparações ABP: 374
+Comparações AVL: 340
+
+Frase: You walk out of The Good Girl with mixed emotions -- disapproval of Justine combined with a tinge of understanding for her actions .	
+Escore: 0
+Comparações ABP: 594
+Comparações AVL: 540
+
+Frase: The movie strains to stay on the light , comic side of the issue , despite the difficulty of doing so when dealing with the destruction of property and , potentially , of life itself .	
+Escore: -2
+Comparações ABP: 946
+Comparações AVL: 728
+
+Frase: Unfortunately the story and the actors are served with a hack script .	
+Escore: -1
+Comparações ABP: 296
+Comparações AVL: 284
+
+Frase: This is an insultingly inept and artificial examination of grief and its impacts upon the relationships of the survivors .	
+Escore: -1
+Comparações ABP: 544
+Comparações AVL: 456
+
+Frase: The immersive powers of the giant screen and its hyper-realistic images are put to perfect use in the breathtakingly beautiful outer-space documentary Space Station 3D .	
+Escore: 2
+Comparações ABP: 690
+Comparações AVL: 596
+
+Frase: A tired , unnecessary retread ... a stale copy of a picture that was n't all that great to begin with .	
+Escore: -1
+Comparações ABP: 522
+Comparações AVL: 466
+
+Frase: Its initial excitement settles into a warmed over pastiche .	
+Escore: 0
+Comparações ABP: 230
+Comparações AVL: 220
+
+Frase: Muccino , who directed from his own screenplay , is a canny crowd pleaser , and The Last Kiss ... provides more than enough sentimental catharsis for a satisfying evening at the multiplex .	
+Escore: 0
+Comparações ABP: 732
+Comparações AVL: 668
+
+Frase: It challenges , this nervy oddity , like modern art should .	
+Escore: 0
+Comparações ABP: 256
+Comparações AVL: 222
+
+Frase: Read My Lips is to be viewed and treasured for its extraordinary intelligence and originality as well as its lyrical variations on the game of love .	
+Escore: 5
+Comparações ABP: 688
+Comparações AVL: 598
+
+Frase: An hour and a half of joyful solo performance .	
+Escore: 0
+Comparações ABP: 262
+Comparações AVL: 232
+
+Frase: Like its parade of predecessors , this Halloween is a gory slash-fest .	
+Escore: 0
+Comparações ABP: 296
+Comparações AVL: 276
+
+Frase: Better than the tepid Star Trek : Insurrection ; falls short of First Contact because the villain could n't pick the lint off Borg Queen Alice Krige 's cape ; and finishes half a parsec -LRB- a nose -RRB- ahead of Generations .	
+Escore: -1
+Comparações ABP: 982
+Comparações AVL: 926
+
+Frase: Exploits -LRB- headbanger -RRB- stereotypes in good fun , while adding a bit of heart and unsettling subject matter .	
+Escore: 0
+Comparações ABP: 444
+Comparações AVL: 420
+
+Frase: It 's just rather leaden and dull .	
+Escore: 0
+Comparações ABP: 216
+Comparações AVL: 174
+
+Frase: Rice never clearly defines his characters or gives us a reason to care about them .	
+Escore: 1
+Comparações ABP: 390
+Comparações AVL: 354
+
+Frase: Although the subject matter may still be too close to recent national events , the film works - mostly due to its superior cast of characters .	
+Escore: 0
+Comparações ABP: 682
+Comparações AVL: 584
+
+Frase: A deeply felt and vividly detailed story about newcomers in a strange new world .	
+Escore: -1
+Comparações ABP: 382
+Comparações AVL: 318
+
+Frase: The film 's darker moments become smoothed over by an overwhelming need to tender inspirational tidings , especially in the last few cloying moments .	
+Escore: -1
+Comparações ABP: 654
+Comparações AVL: 544
+
+Frase: From the opening strains of the Average White Band 's `` Pick up the Pieces '' , you can feel the love .	
+Escore: 1
+Comparações ABP: 464
+Comparações AVL: 472
+
+Frase: Its impressive images of crematorium chimney fires and stacks of dead bodies are undermined by the movie 's presentation , which is way too stagy .	
+Escore: 0
+Comparações ABP: 714
+Comparações AVL: 576
+
+Frase: Triple X is a double agent , and he 's one bad dude .	
+Escore: -1
+Comparações ABP: 306
+Comparações AVL: 278
+
+Frase: There has been a string of ensemble cast romances recently ... but Peter Mattei 's Love in the Time of Money sets itself apart by forming a chain of relationships that come full circle to end on a positive -LRB- if tragic -RRB- note .	
+Escore: 1
+Comparações ABP: 1066
+Comparações AVL: 998
+
+Frase: This is popcorn movie fun with equal doses of action , cheese , ham and cheek -LRB- as well as a serious debt to The Road Warrior -RRB- , but it feels like unrealized potential	
+Escore: 2
+Comparações ABP: 838
+Comparações AVL: 734
+
+Frase: As an actress , Madonna is one helluva singer .	
+Escore: 0
+Comparações ABP: 206
+Comparações AVL: 198
+
+Frase: Jaglom offers the none-too-original premise that everyone involved with moviemaking is a con artist and a liar .	
+Escore: 0
+Comparações ABP: 490
+Comparações AVL: 412
+
+Frase: The filmmakers ' eye for detail and the high standards of performance convey a strong sense of the girls ' environment .	
+Escore: 0
+Comparações ABP: 554
+Comparações AVL: 458
+
+Frase: It wraps up a classic mother\/daughter struggle in recycled paper with a shiny new bow and while the audience can tell it 's not all new , at least it looks pretty .	
+Escore: 1
+Comparações ABP: 846
+Comparações AVL: 732
+
+Frase: or maybe `` How will you feel after an 88-minute rip-off of The Rock with action confined to slo-mo gun firing and random glass-shattering ? ''	
+Escore: 0
+Comparações ABP: 598
+Comparações AVL: 552
+
+Frase: Enough may pander to our basest desires for payback , but unlike many revenge fantasies , it ultimately delivers .	
+Escore: -2
+Comparações ABP: 492
+Comparações AVL: 406
+
+Frase: How can such a cold movie claim to express warmth and longing ?	
+Escore: 0
+Comparações ABP: 308
+Comparações AVL: 282
+
+Frase: Only at the prospect of Beck 's next project .	
+Escore: 0
+Comparações ABP: 274
+Comparações AVL: 230
+
+Frase: ... a vivid , thoughtful , unapologetically raw coming-of-age tale full of sex , drugs and rock 'n' roll .	
+Escore: 0
+Comparações ABP: 408
+Comparações AVL: 348
+
+Frase: A bittersweet contemporary comedy about benevolent deception , which , while it may not rival the filmmaker 's period pieces , is still very much worth seeing .	
+Escore: 2
+Comparações ABP: 638
+Comparações AVL: 564
+
+Frase: Shankman ... and screenwriter Karen Janszen bungle their way through the narrative as if it were a series of Bible parables and not an actual story .	
+Escore: 0
+Comparações ABP: 646
+Comparações AVL: 590
+
+Frase: They can and will turn on a dime from oddly humorous to tediously sentimental .	
+Escore: -2
+Comparações ABP: 342
+Comparações AVL: 326
+
+Frase: It 's a terrible movie in every regard , and utterly painful to watch .	
+Escore: -1
+Comparações ABP: 344
+Comparações AVL: 312
+
+Frase: Why spend $ 9 on the same stuff you can get for a buck or so in that greasy little vidgame pit in the theater lobby ?	
+Escore: 0
+Comparações ABP: 676
+Comparações AVL: 598
+
+Frase: Evokes the 19th century with a subtlety that is an object lesson in period filmmaking .	
+Escore: 0
+Comparações ABP: 400
+Comparações AVL: 362
+
+Frase: All three actresses are simply dazzling , particularly Balk , who 's finally been given a part worthy of her considerable talents .	
+Escore: 0
+Comparações ABP: 532
+Comparações AVL: 476
+
+Frase: The beautiful , unusual music is this film 's chief draw , but its dreaminess may lull you to sleep .	
+Escore: -2
+Comparações ABP: 458
+Comparações AVL: 416
+
+Frase: You may be captivated , as I was , by its moods , and by its subtly transformed star , and still wonder why Paul Thomas Anderson ever had the inclination to make the most sincere and artful movie in which Adam Sandler will probably ever appear .	
+Escore: 1
+Comparações ABP: 1094
+Comparações AVL: 994
+
+Frase: The only surprise is that heavyweights Joel Silver and Robert Zemeckis agreed to produce this ; I assume the director has pictures of them cavorting in ladies ' underwear .	
+Escore: 0
+Comparações ABP: 710
+Comparações AVL: 616
+
+Frase: Ver Wiel 's desperate attempt at wit is lost , leaving the character of Critical Jim two-dimensional and pointless .	
+Escore: -1
+Comparações ABP: 492
+Comparações AVL: 426
+
+Frase: So vivid a portrait of a woman consumed by lust and love and crushed by betrayal that it conjures up the intoxicating fumes and emotional ghosts of a freshly painted Rembrandt .	
+Escore: -1
+Comparações ABP: 840
+Comparações AVL: 730
+
+Frase: Cacoyannis ' vision is far less mature , interpreting the play as a call for pity and sympathy for anachronistic phantasms haunting the imagined glory of their own pasts .	
+Escore: 0
+Comparações ABP: 808
+Comparações AVL: 636
+
+Frase: In other words , it 's badder than bad .	
+Escore: -1
+Comparações ABP: 202
+Comparações AVL: 198
+
+Frase: Wedding feels a bit anachronistic .	
+Escore: 0
+Comparações ABP: 124
+Comparações AVL: 132
+
+Frase: Dong never pushes for insights beyond the superficial tensions of the dynamic he 's dissecting , and the film settles too easily along the contours of expectation .	
+Escore: 1
+Comparações ABP: 782
+Comparações AVL: 598
+
+Frase: Little is done to support the premise other than fling gags at it to see which ones shtick .	
+Escore: 1
+Comparações ABP: 480
+Comparações AVL: 424
+
+Frase: Brings to a spectacular completion one of the most complex , generous and subversive artworks of the last decade .	
+Escore: -1
+Comparações ABP: 552
+Comparações AVL: 432
+
+Frase: With an obvious rapport with her actors and a striking style behind the camera	
+Escore: 0
+Comparações ABP: 360
+Comparações AVL: 324
+
+Frase: You can see where Big Bad Love is trying to go , but it never quite gets there .	
+Escore: 0
+Comparações ABP: 422
+Comparações AVL: 404
+
+Frase: A sleek advert for youthful anomie that never quite equals the sum of its pretensions .	
+Escore: 0
+Comparações ABP: 466
+Comparações AVL: 356
+
+Frase: Statham employs an accent that I think is supposed to be an attempt at hardass American but sometimes just lapses into unhidden British .	
+Escore: 0
+Comparações ABP: 592
+Comparações AVL: 534
+
+Frase: If A Few Good Men told us that we `` ca n't handle the truth '' than High Crimes poetically states at one point in this movie that we `` do n't care about the truth . ''	
+Escore: 0
+Comparações ABP: 916
+Comparações AVL: 856
+
+Frase: So boring that even its target audience talked all the way through it .	
+Escore: 0
+Comparações ABP: 332
+Comparações AVL: 308
+
+Frase: Wiser souls would have tactfully pretended not to see it and left it lying there	
+Escore: 0
+Comparações ABP: 420
+Comparações AVL: 354
+
+Frase: Rarely has sex on screen been so aggressively anti-erotic .	
+Escore: 0
+Comparações ABP: 222
+Comparações AVL: 212
+
+Frase: The Hours , a delicately crafted film , is an impressive achievement in spite of a river of sadness that pours into every frame .	
+Escore: 0
+Comparações ABP: 624
+Comparações AVL: 518
+
+Frase: Delivers roughly equal amounts of beautiful movement and inside information .	
+Escore: 0
+Comparações ABP: 322
+Comparações AVL: 246
+
+Frase: Showtime 's starry cast could be both an asset and a detriment .	
+Escore: 0
+Comparações ABP: 326
+Comparações AVL: 290
+
+Frase: -LRB- Dong -RRB- makes a valiant effort to understand everyone 's point of view , and he does such a good job of it that Family Fundamentals gets you riled up .	
+Escore: 0
+Comparações ABP: 780
+Comparações AVL: 694
+
+Frase: Light the candles , bring out the cake and do n't fret about the calories because there 's precious little substance in Birthday Girl -- it 's simply , and surprisingly , a nice , light treat .	
+Escore: -1
+Comparações ABP: 886
+Comparações AVL: 786
+
+Frase: In his debut as a director , Washington has a sure hand .	
+Escore: 0
+Comparações ABP: 254
+Comparações AVL: 256
+
+Frase: -- but it makes for one of the most purely enjoyable and satisfying evenings at the movies I 've had in a while .	
+Escore: 0
+Comparações ABP: 664
+Comparações AVL: 552
+
+Frase: This is not Chabrol 's best , but even his lesser works outshine the best some directors can offer .	
+Escore: 2
+Comparações ABP: 448
+Comparações AVL: 410
+
+Frase: The heart of the film is a touching reflection on aging , suffering and the prospect of death .	
+Escore: 0
+Comparações ABP: 518
+Comparações AVL: 406
+
+Frase: It 's a glorious spectacle like those D.W. Griffith made in the early days of silent film .	
+Escore: 2
+Comparações ABP: 462
+Comparações AVL: 424
+
+Frase: The movie is undone by a filmmaking methodology that 's just experimental enough to alienate the mainstream audience while ringing cliched to hardened indie-heads .	
+Escore: -1
+Comparações ABP: 654
+Comparações AVL: 560
+
+Frase: The year 's greatest adventure , and Jackson 's limited but enthusiastic adaptation has made literature literal without killing its soul -- a feat any thinking person is bound to appreciate .	
+Escore: 2
+Comparações ABP: 748
+Comparações AVL: 690
+
+Frase: If this movie leaves you cool , it also leaves you intriguingly contemplative .	
+Escore: 0
+Comparações ABP: 348
+Comparações AVL: 290
+
+Frase: When all is said and done , she loves them to pieces -- and so , I trust , will you .	
+Escore: 1
+Comparações ABP: 474
+Comparações AVL: 414
+
+Frase: It takes you somewhere you 're not likely to have seen before , but beneath the exotic surface -LRB- and exotic dancing -RRB- it 's surprisingly old-fashioned .	
+Escore: 0
+Comparações ABP: 642
+Comparações AVL: 586
+
+Frase: Director Claude Chabrol has become the master of innuendo .	
+Escore: 1
+Comparações ABP: 240
+Comparações AVL: 220
+
+Frase: Woven together handsomely , recalling sixties ' rockumentary milestones from Lonely Boy to Do n't Look Back .	
+Escore: 0
+Comparações ABP: 352
+Comparações AVL: 372
+
+Frase: It 's petty thievery like this that puts flimsy flicks like this behind bars	
+Escore: 1
+Comparações ABP: 392
+Comparações AVL: 330
+
+Frase: Paul Cox needed to show it .	
+Escore: 0
+Comparações ABP: 140
+Comparações AVL: 156
+
+Frase: A film that will probably please people already fascinated by Behan but leave everyone else yawning with admiration .	
+Escore: 0
+Comparações ABP: 524
+Comparações AVL: 416
+
+Frase: The huskies are beautiful , the border collie is funny and the overall feeling is genial and decent .	
+Escore: 0
+Comparações ABP: 498
+Comparações AVL: 410
+
+Frase: They ought to be a whole lot scarier than they are in this tepid genre offering .	
+Escore: 0
+Comparações ABP: 422
+Comparações AVL: 380
+
+Frase: moved	
+Escore: 0
+Comparações ABP: 42
+Comparações AVL: 42
+
+Frase: Nearly every attempt at humor here is DOA .	
+Escore: 0
+Comparações ABP: 184
+Comparações AVL: 196
+
+Frase: A piquant meditation on the things that prevent people from reaching happiness .	
+Escore: 0
+Comparações ABP: 362
+Comparações AVL: 294
+
+Frase: This movie is to be cherished .	
+Escore: 1
+Comparações ABP: 158
+Comparações AVL: 154
+
+Frase: The Bard as black comedy -- Willie would have loved it .	
+Escore: 1
+Comparações ABP: 256
+Comparações AVL: 266
+
+Frase: Too bland and fustily tasteful to be truly prurient .	
+Escore: 0
+Comparações ABP: 250
+Comparações AVL: 224
+
+Frase: While Tattoo borrows heavily from both Seven and The Silence of the Lambs , it manages to maintain both a level of sophisticated intrigue and human-scale characters that suck the audience in .	
+Escore: 2
+Comparações ABP: 818
+Comparações AVL: 718
+
+Frase: Once he starts learning to compromise with reality enough to become comparatively sane and healthy , the film becomes predictably conventional .	
+Escore: 1
+Comparações ABP: 564
+Comparações AVL: 464
+
+Frase: The film is ... determined to treat its characters , weak and strong , as fallible human beings , not caricatures , and to carefully delineate the cost of the inevitable conflicts between human urges and an institution concerned with self-preservation .	
+Escore: -1
+Comparações ABP: 1000
+Comparações AVL: 846
+
+Frase: Even as it pays earnest homage to turntablists and beat jugglers , old schoolers and current innovators , Scratch is great fun , full of the kind of energy it 's documenting .	
+Escore: 1
+Comparações ABP: 840
+Comparações AVL: 692
+
+Frase: While it is interesting to witness the conflict from the Palestinian side , Longley 's film lacks balance ... and fails to put the struggle into meaningful historical context .	
+Escore: -3
+Comparações ABP: 680
+Comparações AVL: 612
+
+Frase: Producer John Penotti surveyed high school students ... and came back with the astonishing revelation that `` they wanted to see something that did n't talk down to them . ''	
+Escore: 1
+Comparações ABP: 708
+Comparações AVL: 664
+
+Frase: A real winner -- smart , funny , subtle , and resonant .	
+Escore: 1
+Comparações ABP: 226
+Comparações AVL: 214
+
+Frase: Ultimate X is a ride , basically the kind of greatest-hits reel that might come with a subscription to ESPN the Magazine .	
+Escore: 0
+Comparações ABP: 510
+Comparações AVL: 500
+
+Frase: Unfortunately , contrived plotting , stereotyped characters and Woo 's over-the-top instincts as a director undermine the moral dilemma at the movie 's heart .	
+Escore: 0
+Comparações ABP: 612
+Comparações AVL: 518
+
+Frase: Jones ... makes a great impression as the writer-director of this little $ 1.8 million charmer , which may not be cutting-edge indie filmmaking but has a huge heart .	
+Escore: 0
+Comparações ABP: 706
+Comparações AVL: 634
+
+Frase: Even a hardened voyeur would require the patience of Job to get through this interminable , shapeless documentary about the swinging subculture .	
+Escore: 0
+Comparações ABP: 552
+Comparações AVL: 496
+
+Frase: I 'd watch these two together again in a New York minute .	
+Escore: 0
+Comparações ABP: 252
+Comparações AVL: 284
+
+Frase: You can practically hear George Orwell turning over .	
+Escore: 0
+Comparações ABP: 198
+Comparações AVL: 196
+
+Frase: Ferrara 's best film in years .	
+Escore: 1
+Comparações ABP: 136
+Comparações AVL: 146
+
+Frase: Possibly not since Grumpy Old Men have I heard a film so solidly connect with one demographic while striking out with another .	
+Escore: 0
+Comparações ABP: 532
+Comparações AVL: 506
+
+Frase: No doubt the star and everyone else involved had their hearts in the right place .	
+Escore: 1
+Comparações ABP: 456
+Comparações AVL: 360
+
+Frase: ... a visually seductive , unrepentantly trashy take on Rice 's second installment of her Vampire Chronicles .	
+Escore: 0
+Comparações ABP: 344
+Comparações AVL: 356
+
+Frase: Poetry in motion captured on film .	
+Escore: 0
+Comparações ABP: 170
+Comparações AVL: 160
+
+Frase: Pretend like your SAT scores are below 120 and you might not notice the flaws .	
+Escore: 1
+Comparações ABP: 378
+Comparações AVL: 364
+
+Frase: None of Birthday Girl 's calculated events take us by surprise ...	
+Escore: 0
+Comparações ABP: 272
+Comparações AVL: 266
+
+Frase: Twenty-three movies into a mostly magnificent directorial career , Clint Eastwood 's efficiently minimalist style finally has failed him .	
+Escore: 0
+Comparações ABP: 436
+Comparações AVL: 416
+
+Frase: It 's like a `` Big Chill '' reunion of the Baader-Meinhof Gang , only these guys are more harmless pranksters than political activists .	
+Escore: 1
+Comparações ABP: 568
+Comparações AVL: 518
+
+Frase: Ms. Hutchins is talented enough and charismatic enough to make us care about Zelda 's ultimate fate .	
+Escore: 0
+Comparações ABP: 442
+Comparações AVL: 398
+
+Frase: Successfully blended satire , high camp and yet another sexual taboo into a really funny movie .	
+Escore: 0
+Comparações ABP: 362
+Comparações AVL: 344
+
+Frase: Really is a pan-American movie , with moments of genuine insight into the urban heart .	
+Escore: 1
+Comparações ABP: 374
+Comparações AVL: 340
+
+Frase: Same song , second verse , coulda been better , but it coulda been worse .	
+Escore: 0
+Comparações ABP: 292
+Comparações AVL: 292
+
+Frase: The superior plotline is n't quite enough to drag along the dead -LRB- water -RRB- weight of the other .	
+Escore: 0
+Comparações ABP: 580
+Comparações AVL: 470
+
+Frase: Crikey indeed .	
+Escore: 0
+Comparações ABP: 54
+Comparações AVL: 68
+
+Frase: It 's exactly what you 'd expect .	
+Escore: 0
+Comparações ABP: 172
+Comparações AVL: 170
+
+Frase: It 's definitely not made for kids or their parents , for that matter , and I think even fans of Sandler 's comic taste may find it uninteresting .	
+Escore: 0
+Comparações ABP: 798
+Comparações AVL: 640
+
+Frase: You can not guess why the cast and crew did n't sign a pact to burn the negative and the script and pretend the whole thing never existed .	
+Escore: -1
+Comparações ABP: 804
+Comparações AVL: 680
+
+Frase: A stirring road movie .	
+Escore: 0
+Comparações ABP: 108
+Comparações AVL: 106
+
+Frase: If you 've grown tired of going where no man has gone before , but several movies have - take heart .	
+Escore: -1
+Comparações ABP: 502
+Comparações AVL: 458
+
+Frase: It has more than a few moments that are insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing .	
+Escore: 1
+Comparações ABP: 650
+Comparações AVL: 520
+
+Frase: It just goes to show , an intelligent person is n't necessarily an admirable storyteller .	
+Escore: 1
+Comparações ABP: 410
+Comparações AVL: 344
+
+Frase: Perhaps the best sports movie I 've ever seen .	
+Escore: 1
+Comparações ABP: 210
+Comparações AVL: 206
+
+Frase: Just send it to Cranky .	
+Escore: 0
+Comparações ABP: 106
+Comparações AVL: 132
+
+Frase: Steven Soderbergh does n't remake Andrei Tarkovsky 's Solaris so much as distill it .	
+Escore: 0
+Comparações ABP: 372
+Comparações AVL: 352
+
+Frase: Anyone who wants to start writing screenplays can just follow the same blueprint from hundreds of other films , sell it to the highest bidder and walk away without anyone truly knowing your identity .	
+Escore: 0
+Comparações ABP: 844
+Comparações AVL: 762
+
+Frase: In theory , a middle-aged romance pairing Clayburgh and Tambor sounds promising , but in practice it 's something else altogether -- clownish and offensive and nothing at all like real life .	
+Escore: 2
+Comparações ABP: 876
+Comparações AVL: 694
+
+Frase: Works better in the conception than it does in the execution ... winds up seeming just a little too clever .	
+Escore: 0
+Comparações ABP: 480
+Comparações AVL: 452
+
+Frase: New Yorkers always seem to find the oddest places to dwell ...	
+Escore: 0
+Comparações ABP: 308
+Comparações AVL: 264
+
+Frase: Vaguely interesting , but it 's just too too much .	
+Escore: 0
+Comparações ABP: 244
+Comparações AVL: 222
+
+Frase: With all the sympathy , empathy and pity fogging up the screen ... His Secret Life enters the land of unintentional melodrama and tiresome love triangles .	
+Escore: 2
+Comparações ABP: 662
+Comparações AVL: 546
+
+Frase: Van Wilder has a built-in audience , but only among those who are drying out from spring break and are still unconcerned about what they ingest .	
+Escore: 0
+Comparações ABP: 654
+Comparações AVL: 572
+
+Frase: No , even that 's too committed .	
+Escore: 0
+Comparações ABP: 162
+Comparações AVL: 154
+
+Frase: The large-frame IMAX camera lends itself beautifully to filming the teeming life on the reefs , making this gorgeous film a must for everyone from junior scientists to grown-up fish lovers .	
+Escore: 1
+Comparações ABP: 814
+Comparações AVL: 690
+
+Frase: Low comedy does n't come much lower .	
+Escore: 0
+Comparações ABP: 226
+Comparações AVL: 198
+
+Frase: The characterizations and dialogue lack depth or complexity , with the ironic exception of Scooter .	
+Escore: -1
+Comparações ABP: 414
+Comparações AVL: 338
+
+Frase: dramatic snapshot	
+Escore: 0
+Comparações ABP: 74
+Comparações AVL: 66
+
+Frase: What we get ... is Caddyshack crossed with the Loyal Order of Raccoons .	
+Escore: 0
+Comparações ABP: 284
+Comparações AVL: 296
+
+Frase: It 'll keep you wide awake and ... very tense .	
+Escore: 0
+Comparações ABP: 236
+Comparações AVL: 220
+
+Frase: The movie is loaded with good intentions , but in his zeal to squeeze the action and our emotions into the all-too-familiar dramatic arc of the Holocaust escape story , Minac drains his movie of all individuality .	
+Escore: -1
+Comparações ABP: 966
+Comparações AVL: 806
+
+Frase: It may scream low budget , but this charmer has a spirit that can not be denied .	
+Escore: 0
+Comparações ABP: 438
+Comparações AVL: 376
+
+Frase: Less an examination of neo-Nazism than a probe into the nature of faith itself .	
+Escore: 0
+Comparações ABP: 426
+Comparações AVL: 344
+
+Frase: Though few will argue that it ranks with the best of Herzog 's works , Invincible shows he 's back in form , with an astoundingly rich film .	
+Escore: 1
+Comparações ABP: 658
+Comparações AVL: 602
+
+Frase: While it may not add up to the sum of its parts , Holofcener 's film offers just enough insight to keep it from being simpleminded , and the ensemble cast is engaging enough to keep you from shifting in your chair too often .	
+Escore: 0
+Comparações ABP: 1148
+Comparações AVL: 970
+
+Frase: There are no special effects , and no Hollywood endings .	
+Escore: 0
+Comparações ABP: 272
+Comparações AVL: 226
+
+Frase: Despite Juliet Stevenon 's attempt to bring cohesion to Pamela 's emotional roller coaster life , it is not enough to give the film the substance it so desperately needs .	
+Escore: -1
+Comparações ABP: 766
+Comparações AVL: 672
+
+Frase: Not a schlocky creature feature but something far more stylish and cerebral -- and , hence , more chillingly effective .	
+Escore: 1
+Comparações ABP: 482
+Comparações AVL: 416
+
+Frase: From a deceptively simple premise , this deeply moving French drama develops a startling story that works both as a detailed personal portrait and as a rather frightening examination of modern times .	
+Escore: -2
+Comparações ABP: 852
+Comparações AVL: 706
+
+Frase: The movie is obviously a labour of love so Howard appears to have had free rein to be as pretentious as he wanted .	
+Escore: 2
+Comparações ABP: 640
+Comparações AVL: 532
+
+Frase: A stylish cast and some clever scripting solutions help Chicago make the transition from stage to screen with considerable appeal intact .	
+Escore: 2
+Comparações ABP: 526
+Comparações AVL: 484
+
+Frase: Fessenden 's narrative is just as much about the ownership and redefinition of myth as it is about a domestic unit finding their way to joy .	
+Escore: 1
+Comparações ABP: 700
+Comparações AVL: 602
+
+Frase: It 's a movie that accomplishes so much that one viewing ca n't possibly be enough .	
+Escore: 0
+Comparações ABP: 470
+Comparações AVL: 400
+
+Frase: You can sip your vintage wines and watch your Merchant Ivory productions ; I 'll settle for a nice cool glass of iced tea and a Jerry Bruckheimer flick any day of the week .	
+Escore: 0
+Comparações ABP: 832
+Comparações AVL: 768
+
+Frase: A quiet , disquieting triumph .	
+Escore: 1
+Comparações ABP: 116
+Comparações AVL: 100
+
+Frase: A muddled limp biscuit of a movie , a vampire soap opera that does n't make much sense even on its own terms .	
+Escore: 0
+Comparações ABP: 640
+Comparações AVL: 540
+
+Frase: It looks much more like a cartoon in the end than The Simpsons ever has .	
+Escore: 1
+Comparações ABP: 384
+Comparações AVL: 354
+
+Frase: Hugely accomplished slice of Hitchcockian suspense .	
+Escore: 0
+Comparações ABP: 150
+Comparações AVL: 156
+
+Frase: A generic international version of a typical American horror film .	
+Escore: 0
+Comparações ABP: 266
+Comparações AVL: 246
+
+Frase: The result is good gossip , entertainingly delivered , yet with a distinctly musty odour , its expiry date long gone .	
+Escore: -1
+Comparações ABP: 490
+Comparações AVL: 418
+
+Frase: Just the labour involved in creating the layered richness of the imagery in this chiaroscuro of madness and light is astonishing .	
+Escore: 0
+Comparações ABP: 608
+Comparações AVL: 510
+
+Frase: Charlotte Sometimes is a gem .	
+Escore: 0
+Comparações ABP: 112
+Comparações AVL: 132
+
+Frase: Stage director Sam Mendes showcases Tom Hanks as a depression era hit-man in this dark tale of revenge .	
+Escore: -1
+Comparações ABP: 448
+Comparações AVL: 420
+
+Frase: Brady	
+Escore: 0
+Comparações ABP: 26
+Comparações AVL: 42
+
+Frase: Upper Teens may get cynical .	
+Escore: -1
+Comparações ABP: 128
+Comparações AVL: 134
+
+Frase: A gift to anyone who loves both dance and cinema	
+Escore: 0
+Comparações ABP: 268
+Comparações AVL: 238
+
+Frase: A small movie with a big heart .	
+Escore: 0
+Comparações ABP: 158
+Comparações AVL: 172
+
+Frase: Like a comedian who starts off promisingly but then proceeds to flop , Comedian runs out of steam after a half hour .	
+Escore: 0
+Comparações ABP: 570
+Comparações AVL: 492
+
+Frase: feeling to it , but like the 1920 's , the trip there is a great deal of fun .	
+Escore: 1
+Comparações ABP: 456
+Comparações AVL: 404
+
+Frase: Essentially a collection of bits -- and they 're all naughty .	
+Escore: 0
+Comparações ABP: 294
+Comparações AVL: 270
+
+Frase: A cartoon ?	
+Escore: 0
+Comparações ABP: 44
+Comparações AVL: 66
+
+Frase: Disney aficionados will notice distinct parallels between this story and the 1971 musical `` Bedknobs and Broomsticks , '' which also dealt with British children rediscovering the power of fantasy during wartime .	
+Escore: 0
+Comparações ABP: 806
+Comparações AVL: 692
+
+Frase: These guys seem great to knock back a beer with but they 're simply not funny performers .	
+Escore: 0
+Comparações ABP: 432
+Comparações AVL: 404
+
+Frase: It 's not a motion picture ; it 's an utterly static picture .	
+Escore: 0
+Comparações ABP: 334
+Comparações AVL: 292
+
+Frase: The Powerpuff Girls arrive on the big screen with their super-powers , their super-simple animation and their super-dooper-adorability intact .	
+Escore: 0
+Comparações ABP: 494
+Comparações AVL: 424
+
+Frase: Coal is n't as easy to come by as it used to be and this would be a worthy substitute for naughty children 's stockings .	
+Escore: 0
+Comparações ABP: 684
+Comparações AVL: 610
+
+Frase: I love the opening scenes of a wintry New York City in 1899 .	
+Escore: 1
+Comparações ABP: 296
+Comparações AVL: 316
+
+Frase: If -LRB- Jaglom 's -RRB- latest effort is not the director at his most sparkling , some of its repartee is still worth hearing .	
+Escore: 1
+Comparações ABP: 590
+Comparações AVL: 548
+
+Frase: It shares the first two films ' loose-jointed structure , but laugh-out-loud bits are few and far between .	
+Escore: 0
+Comparações ABP: 432
+Comparações AVL: 376
+
+Frase: The movie is a trove of delights .	
+Escore: 0
+Comparações ABP: 208
+Comparações AVL: 182
+
+Frase: With `` Ichi the Killer '' , Takashi Miike , Japan 's wildest filmmaker gives us a crime fighter carrying more emotional baggage than Batman ...	
+Escore: 0
+Comparações ABP: 502
+Comparações AVL: 516
+
+Frase: Were it not for a sentimental resolution that explains way more about Cal than does the movie or the character any good , Freundlich 's World Traveler might have been one of the more daring and surprising American movies of the year .	
+Escore: 1
+Comparações ABP: 1082
+Comparações AVL: 946
+
+Frase: Thin period piece .	
+Escore: 0
+Comparações ABP: 96
+Comparações AVL: 90
+
+Frase: A well-executed spy-thriller .	
+Escore: 0
+Comparações ABP: 74
+Comparações AVL: 84
+
+Frase: The stripped-down dramatic constructs , austere imagery and abstract characters are equal parts poetry and politics , obvious at times but evocative and heartfelt .	
+Escore: 0
+Comparações ABP: 670
+Comparações AVL: 514
+
+Frase: ... the tale of her passionate , tumultuous affair with Musset unfolds as Sand 's masculine persona , with its love of life and beauty , takes form .	
+Escore: 0
+Comparações ABP: 650
+Comparações AVL: 558
+
+Frase: More of the same old garbage Hollywood has been trying to pass off as acceptable teen entertainment for some time now .	
+Escore: 0
+Comparações ABP: 604
+Comparações AVL: 508
+
+Frase: Strident and inelegant in its ` message-movie ' posturing .	
+Escore: -1
+Comparações ABP: 218
+Comparações AVL: 206
+
+Frase: In the affable Maid in Manhattan , Jennifer Lopez 's most aggressive and most sincere attempt to take movies by storm , the diva shrewdly surrounds herself with a company of strictly A-list players .	
+Escore: -1
+Comparações ABP: 760
+Comparações AVL: 730
+
+Frase: Gives an intriguing twist to the French coming-of-age genre .	
+Escore: 0
+Comparações ABP: 236
+Comparações AVL: 224
+
+Frase: I 'd be lying if I said my ribcage did n't ache by the end of Kung Pow .	
+Escore: 0
+Comparações ABP: 504
+Comparações AVL: 446
+
+Frase: Has the capability of effecting change and inspiring hope .	
+Escore: 1
+Comparações ABP: 264
+Comparações AVL: 222
+
+Frase: Kitschy , flashy , overlong soap opera .	
+Escore: 0
+Comparações ABP: 148
+Comparações AVL: 134
+
+Frase: White has n't developed characters so much as caricatures , one-dimensional buffoons that get him a few laughs but nothing else .	
+Escore: 0
+Comparações ABP: 594
+Comparações AVL: 490
+
+Frase: ... one resurrection too many .	
+Escore: 0
+Comparações ABP: 130
+Comparações AVL: 112
+
+Frase: Execrable .	
+Escore: 0
+Comparações ABP: 26
+Comparações AVL: 42
+
+Frase: It may be a no-brainer , but at least it 's a funny no-brainer .	
+Escore: 0
+Comparações ABP: 330
+Comparações AVL: 314
+
+Frase: I liked the movie , but I know I would have liked it more if it had just gone that one step further .	
+Escore: 0
+Comparações ABP: 566
+Comparações AVL: 516
+
+Frase: -LRB- Allen 's -RRB- best works understand why snobbery is a better satiric target than middle-America diversions could ever be .	
+Escore: 1
+Comparações ABP: 452
+Comparações AVL: 456
+
+Frase: It gives poor Dana Carvey nothing to do that is really funny , and then expects us to laugh because he acts so goofy all the time .	
+Escore: -1
+Comparações ABP: 676
+Comparações AVL: 598
+
+Frase: Bernal and	
+Escore: 0
+Comparações ABP: 64
+Comparações AVL: 64
+
+Frase: An ambitious and moving but bleak film .	
+Escore: 0
+Comparações ABP: 212
+Comparações AVL: 174
+
+Frase: If cinema had been around to capture the chaos of France in the 1790 's , one imagines the result would look like something like this .	
+Escore: 1
+Comparações ABP: 644
+Comparações AVL: 590
+
+Frase: Slight but enjoyable documentary .	
+Escore: 0
+Comparações ABP: 124
+Comparações AVL: 108
+
+Frase: Did the film inform and educate me ?	
+Escore: 0
+Comparações ABP: 212
+Comparações AVL: 178
+
+Frase: If you are curious to see the darker side of what 's going on with young TV actors -LRB- Dawson Leery did what ?!? -RRB- , or see some interesting storytelling devices , you might want to check it out , but there 's nothing very attractive about this movie .	
+Escore: -1
+Comparações ABP: 1106
+Comparações AVL: 1054
+
+Frase: At the end of the movie , my 6-year-old nephew said , `` I guess I come from a broken family , and my uncles are all aliens , too . ''	
+Escore: 0
+Comparações ABP: 676
+Comparações AVL: 592
+
+Frase: All the actors are good in Pauline & Paulette but van der Groen , described as ` Belgium 's national treasure , ' is especially terrific as Pauline .	
+Escore: 1
+Comparações ABP: 582
+Comparações AVL: 558
+
+Frase: Curling may be a unique sport but Men with Brooms is distinctly ordinary .	
+Escore: 0
+Comparações ABP: 310
+Comparações AVL: 306
+
+Frase: ` Yes , that 's right : it 's Forrest Gump , Angel Of Death . '	
+Escore: 1
+Comparações ABP: 242
+Comparações AVL: 290
+
+Frase: Metaphors abound , but it is easy to take this film at face value and enjoy its slightly humorous and tender story .	
+Escore: 0
+Comparações ABP: 566
+Comparações AVL: 488
+
+Frase: Comes across as a fairly weak retooling .	
+Escore: 0
+Comparações ABP: 168
+Comparações AVL: 178
+
+Frase: This Orange has some juice , but it 's far from fresh-squeezed .	
+Escore: 0
+Comparações ABP: 260
+Comparações AVL: 262
+
+Frase: By not averting his eyes , Solondz forces us to consider the unthinkable , the unacceptable , the unmentionable .	
+Escore: -2
+Comparações ABP: 414
+Comparações AVL: 382
+
+Frase: A remarkably alluring film set in the constrictive Eisenhower era about one suburban woman 's yearning in the face of a loss that shatters her cheery and tranquil suburban life .	
+Escore: 1
+Comparações ABP: 796
+Comparações AVL: 688
+
+Frase: Ultimately this is a frustrating patchwork : an uneasy marriage of Louis Begley 's source novel -LRB- About Schmidt -RRB- and an old Payne screenplay .	
+Escore: 0
+Comparações ABP: 604
+Comparações AVL: 566
+
+Frase: The movie is like a year late for tapping into our reality tv obsession , and even tardier for exploiting the novelty of the `` webcast . ''	
+Escore: 3
+Comparações ABP: 688
+Comparações AVL: 582
+
+Frase: Chai 's structure and pacing are disconcertingly slack .	
+Escore: -1
+Comparações ABP: 224
+Comparações AVL: 196
+
+Frase: Or else a doggie winks .	
+Escore: 0
+Comparações ABP: 136
+Comparações AVL: 130
+
+Frase: You need n't be steeped in '50s sociology , pop culture or movie lore to appreciate the emotional depth of Haynes ' work .	
+Escore: 1
+Comparações ABP: 630
+Comparações AVL: 516
+
+Frase: Decasia is what has happened already to so many silent movies , newsreels and the like .	
+Escore: 1
+Comparações ABP: 428
+Comparações AVL: 352
+
+Frase: More than anything else , Kissing Jessica Stein injects freshness and spirit into the romantic comedy genre , which has been held hostage by generic scripts that seek to remake Sleepless in Seattle again and again .	
+Escore: 0
+Comparações ABP: 856
+Comparações AVL: 774
+
+Frase: Fast and funny , an action cartoon that 's suspenseful enough for older kids but not too scary for the school-age crowd .	
+Escore: -1
+Comparações ABP: 608
+Comparações AVL: 502
+
+Frase: After all the big build-up , the payoff for the audience , as well as the characters , is messy , murky , unsatisfying .	
+Escore: 0
+Comparações ABP: 538
+Comparações AVL: 452
+
+Frase: Not only better than its predecessor , it may rate as the most magical and most fun family fare of this or any recent holiday season .	
+Escore: 0
+Comparações ABP: 718
+Comparações AVL: 590
+
+Frase: Once again , the intelligence of gay audiences has been grossly underestimated , and a meaty plot and well-developed characters have been sacrificed for skin and flash that barely fizzle .	
+Escore: 1
+Comparações ABP: 808
+Comparações AVL: 636
+
+Frase: A film without surprise geared toward maximum comfort and familiarity .	
+Escore: 0
+Comparações ABP: 280
+Comparações AVL: 238
+
+Frase: Definitely a crowd-pleaser , but then , so was the Roman Colosseum .	
+Escore: 0
+Comparações ABP: 232
+Comparações AVL: 246
+
+Frase: Here is a VH1 Behind the Music special that has something a little more special behind it : music that did n't sell many records but helped change a nation .	
+Escore: 0
+Comparações ABP: 742
+Comparações AVL: 698
+
+Frase: Kids will love its fantasy and adventure , and grownups should appreciate its whimsical humor .	
+Escore: 1
+Comparações ABP: 366
+Comparações AVL: 336
+
+Frase: After all , he took three minutes of dialogue , 30 seconds of plot and turned them into a 90-minute movie that feels five hours long .	
+Escore: 0
+Comparações ABP: 668
+Comparações AVL: 560
+
+Frase: Interminably bleak , to say nothing of boring .	
+Escore: 0
+Comparações ABP: 202
+Comparações AVL: 186
+
+Frase: A naturally funny film , Home Movie makes you crave Chris Smith 's next movie .	
+Escore: 0
+Comparações ABP: 340
+Comparações AVL: 334
+
+Frase: The Bai brothers have taken an small slice of history and opened it up for all of us to understand , and they 've told a nice little story in the process .	
+Escore: 0
+Comparações ABP: 878
+Comparações AVL: 708
+
+Frase: A Meatballs for the bare-midriff generation .	
+Escore: 0
+Comparações ABP: 160
+Comparações AVL: 156
+
+Frase: This movie is about the worst thing Chan has done in the United States .	
+Escore: -1
+Comparações ABP: 322
+Comparações AVL: 336
+
+Frase: Maintains your interest until the end and even leaves you with a few lingering animated thoughts .	
+Escore: 0
+Comparações ABP: 448
+Comparações AVL: 376
+
+Frase: From blushing to gushing -- Imamura squirts the screen in ` Warm Water Under a Red Bridge '	
+Escore: 0
+Comparações ABP: 324
+Comparações AVL: 398
+
+Frase: Entertainment more disposable than Hanna-Barbera 's half-hour cartoons ever were .	
+Escore: 0
+Comparações ABP: 252
+Comparações AVL: 242
+
+Frase: The beautiful images and solemn words can not disguise the slack complacency of -LRB- Godard 's -RRB- vision , any more than the gorgeous piano and strings on the soundtrack can drown out the tinny self-righteousness of his voice .	
+Escore: -1
+Comparações ABP: 1010
+Comparações AVL: 890
+
+Frase: Were Dylan Thomas alive to witness first-time director Ethan Hawke 's strained Chelsea Walls , he might have been tempted to change his landmark poem to , ` Do Not Go Gentle Into That Good Theatre . '	
+Escore: 0
+Comparações ABP: 706
+Comparações AVL: 752
+
+Frase: Affirms the gifts of all involved , starting with Spielberg and going right through the ranks of the players -- on-camera and off -- that he brings together .	
+Escore: 1
+Comparações ABP: 770
+Comparações AVL: 634
+
+Frase: A somewhat disappointing and meandering saga .	
+Escore: -1
+Comparações ABP: 174
+Comparações AVL: 152
+
+Frase: It 's in the action scenes that things fall apart .	
+Escore: -1
+Comparações ABP: 260
+Comparações AVL: 248
+
+Frase: There 's no palpable chemistry between Lopez and male lead Ralph Fiennes , plus the script by Working Girl scribe Kevin Wade is workmanlike in the extreme .	
+Escore: 1
+Comparações ABP: 616
+Comparações AVL: 608
+
+Frase: A cleverly crafted but ultimately hollow mockumentary .	
+Escore: 0
+Comparações ABP: 180
+Comparações AVL: 178
+
+Frase: The uneven movie does have its charms and its funny moments but not quite enough of them .	
+Escore: 0
+Comparações ABP: 514
+Comparações AVL: 404
+
+Frase: An unintentionally surreal kid 's picture ... in which actors in bad bear suits enact a sort of inter-species parody of a VH1 Behind the Music episode .	
+Escore: -1
+Comparações ABP: 716
+Comparações AVL: 608
+
+Frase: It will break your heart many times over .	
+Escore: 0
+Comparações ABP: 202
+Comparações AVL: 202
+
+Frase: This is as lax and limp a comedy as I 've seen in a while , a meander through worn-out material .	
+Escore: 0
+Comparações ABP: 494
+Comparações AVL: 474
+
+Frase: It 's both sitcomishly predictable and cloying in its attempts to be poignant .	
+Escore: 0
+Comparações ABP: 370
+Comparações AVL: 318
+
+Frase: Though this rude and crude film does deliver a few gut-busting laughs , its digs at modern society are all things we 've seen before .	
+Escore: -1
+Comparações ABP: 672
+Comparações AVL: 558
+
+Frase: -LRB- A -RRB- mess .	
+Escore: 0
+Comparações ABP: 80
+Comparações AVL: 108
+
+Frase: A work that lacks both a purpose and a strong pulse .	
+Escore: 0
+Comparações ABP: 298
+Comparações AVL: 266
+
+Frase: The sword fighting is well done and Auteuil is a goofy pleasure .	
+Escore: 0
+Comparações ABP: 308
+Comparações AVL: 286
+
+Frase: a stereotype	
+Escore: 0
+Comparações ABP: 52
+Comparações AVL: 62
+
+Frase: The IMAX screen enhances the personal touch of manual animation .	
+Escore: 0
+Comparações ABP: 288
+Comparações AVL: 248
+
+Frase: Kaufman and Jonze take huge risks to ponder the whole notion of passion -- our desire as human beings for passion in our lives and the emptiness one feels when it is missing .	
+Escore: 2
+Comparações ABP: 948
+Comparações AVL: 786
+
+Frase: God bless Crudup and his aversion to taking the easy Hollywood road and cashing in on his movie-star gorgeousness .	
+Escore: -1
+Comparações ABP: 484
+Comparações AVL: 436
+
+Frase: Is it a comedy ?	
+Escore: 0
+Comparações ABP: 92
+Comparações AVL: 112
+
+Frase: Unlike most surf movies , Blue Crush thrillingly uses modern technology to take the viewer inside the wave .	
+Escore: 0
+Comparações ABP: 410
+Comparações AVL: 398
+
+Frase: The best part about `` Gangs '' was Daniel Day-Lewis .	
+Escore: 1
+Comparações ABP: 170
+Comparações AVL: 214
+
+Frase: Waiting for Godard can be fruitful : ` In Praise of Love ' is the director 's epitaph for himself .	
+Escore: 0
+Comparações ABP: 448
+Comparações AVL: 428
+
+Frase: An edgy thriller that delivers a surprising punch .	
+Escore: -1
+Comparações ABP: 228
+Comparações AVL: 194
+
+Frase: The movie would seem less of a trifle if Ms. Sugarman followed through on her defiance of the saccharine .	
+Escore: 0
+Comparações ABP: 518
+Comparações AVL: 446
+
+Frase: ` The War of the Roses , ' trailer-trash style .	
+Escore: 0
+Comparações ABP: 188
+Comparações AVL: 202
+
+Frase: The result is a powerful , naturally dramatic piece of low-budget filmmaking .	
+Escore: 0
+Comparações ABP: 344
+Comparações AVL: 274
+
+Frase: A fifty car pileup of cliches .	
+Escore: 0
+Comparações ABP: 180
+Comparações AVL: 160
+
+Frase: Whole stretches of the film may be incomprehensible to moviegoers not already clad in basic black .	
+Escore: 0
+Comparações ABP: 460
+Comparações AVL: 382
+
+Frase: ... pitiful , slapdash disaster .	
+Escore: 0
+Comparações ABP: 106
+Comparações AVL: 88
+
+Frase: Charlotte Sometimes is a brilliant movie .	
+Escore: 1
+Comparações ABP: 134
+Comparações AVL: 152
+
+Frase: You end up simply admiring this bit or that , this performance or that .	
+Escore: 0
+Comparações ABP: 352
+Comparações AVL: 320
+
+Frase: Godard has never made a more sheerly beautiful film than this unexpectedly moving meditation on love , history , memory , resistance and artistic transcendence .	
+Escore: 1
+Comparações ABP: 636
+Comparações AVL: 504
+
+Frase: An erotic thriller that 's neither too erotic nor very thrilling , either .	
+Escore: 0
+Comparações ABP: 372
+Comparações AVL: 296
+
+Frase: Carrying off a spot-on Scottish burr , Duvall -LRB- also a producer -RRB- peels layers from this character that may well not have existed on paper .	
+Escore: 1
+Comparações ABP: 662
+Comparações AVL: 580
+
+Frase: A solid piece of journalistic work that draws a picture of a man for whom political expedience became a deadly foreign policy .	
+Escore: 0
+Comparações ABP: 630
+Comparações AVL: 520
+
+Frase: Hopkins , squarely fills the screen .	
+Escore: 0
+Comparações ABP: 138
+Comparações AVL: 130
+
+Frase: Irwin and his director never come up with an adequate reason why we should pay money for what we can get on television for free .	
+Escore: 1
+Comparações ABP: 672
+Comparações AVL: 586
+
+Frase: Everything its title implies , a standard-issue crime drama spat out from the Tinseltown assembly line .	
+Escore: 0
+Comparações ABP: 362
+Comparações AVL: 366
+
+Frase: Unfolds as one of the most politically audacious films of recent decades from any country , but especially from France .	
+Escore: -1
+Comparações ABP: 552
+Comparações AVL: 456
+
+Frase: `` Abandon '' will leave you wanting to abandon the theater .	
+Escore: 0
+Comparações ABP: 232
+Comparações AVL: 244
+
+Frase: Probably the best case for Christianity since Chesterton and Lewis .	
+Escore: 1
+Comparações ABP: 220
+Comparações AVL: 240
+
+Frase: Before long , you 're desperate for the evening to end .	
+Escore: 0
+Comparações ABP: 308
+Comparações AVL: 244
+
+Frase: It 's all a rather shapeless good time ...	
+Escore: 0
+Comparações ABP: 196
+Comparações AVL: 194
+
+Frase: Feels more like a rejected X-Files episode than a credible account of a puzzling real-life happening .	
+Escore: 1
+Comparações ABP: 426
+Comparações AVL: 380
+
+Frase: No amount of good intentions is able to overcome the triviality of the story .	
+Escore: 0
+Comparações ABP: 396
+Comparações AVL: 342
+
+Frase: -LRB- Ramsay -RRB- visually transforms the dreary expanse of dead-end distaste the characters inhabit into a poem of art , music and metaphor .	
+Escore: 0
+Comparações ABP: 644
+Comparações AVL: 518
+
+Frase: The film has -LRB- its -RRB- moments , but they are few and far between .	
+Escore: 0
+Comparações ABP: 368
+Comparações AVL: 336
+
+Frase: ... a sweetly affecting story about four sisters who are coping , in one way or another , with life 's endgame .	
+Escore: 1
+Comparações ABP: 486
+Comparações AVL: 442
+
+Frase: A disturbing examination of what appears to be the definition of a ` bad ' police shooting .	
+Escore: -1
+Comparações ABP: 464
+Comparações AVL: 384
+
+Frase: Distances you by throwing out so many red herrings , so many false scares , that the genuine ones barely register .	
+Escore: 1
+Comparações ABP: 512
+Comparações AVL: 454
+
+Frase: Almost .	
+Escore: 0
+Comparações ABP: 26
+Comparações AVL: 42
+
+Frase: Every sequel you skip will be two hours gained .	
+Escore: 0
+Comparações ABP: 208
+Comparações AVL: 224
+
+Frase: Been there done that .	
+Escore: 0
+Comparações ABP: 110
+Comparações AVL: 110
+
+Frase: They exist for hushed lines like `` They 're back ! ''	
+Escore: 1
+Comparações ABP: 260
+Comparações AVL: 244
+
+Frase: Somehow Ms. Griffiths and Mr. Pryce bring off this wild Welsh whimsy .	
+Escore: 0
+Comparações ABP: 270
+Comparações AVL: 290
+
+Frase: The densest distillation of Roberts ' movies ever made .	
+Escore: 0
+Comparações ABP: 244
+Comparações AVL: 196
+
+Frase: Lots of effort and intelligence are on display but in execution it is all awkward , static , and lifeless rumblings .	
+Escore: 0
+Comparações ABP: 570
+Comparações AVL: 446
+
+Frase: This is one of the outstanding thrillers of recent years .	
+Escore: 0
+Comparações ABP: 302
+Comparações AVL: 260
+
+Frase: Consider the film a celluloid litmus test for the intellectual and emotional pedigree of your date and a giant step backward for a director I admire .	
+Escore: 0
+Comparações ABP: 732
+Comparações AVL: 604
+
+Frase: The subtitled costume drama is set in a remote African empire before cell phones , guns , and the internal combustion engine , but the politics that thump through it are as timely as tomorrow .	
+Escore: 0
+Comparações ABP: 890
+Comparações AVL: 750
+
+Frase: Opening with some contrived banter , cliches and some loose ends , the screenplay only comes into its own in the second half .	
+Escore: 0
+Comparações ABP: 574
+Comparações AVL: 502
+
+Frase: A captivating new film .	
+Escore: 1
+Comparações ABP: 112
+Comparações AVL: 106
+
+Frase: If you adored The Full Monty so resoundingly that you 're dying to see the same old thing in a tired old setting , then this should keep you reasonably entertained .	
+Escore: -1
+Comparações ABP: 732
+Comparações AVL: 692
+
+Frase: Worth catching for Griffiths ' warm and winning central performance .	
+Escore: 0
+Comparações ABP: 226
+Comparações AVL: 224
+
+Frase: Sorvino makes the princess seem smug and cartoonish , and the film only really comes alive when poor Hermocrates and Leontine pathetically compare notes about their budding amours .	
+Escore: -1
+Comparações ABP: 766
+Comparações AVL: 628
+
+Frase: While this has the making of melodrama , the filmmaker cuts against this natural grain , producing a work that 's more interested in asking questions than in answering them .	
+Escore: 1
+Comparações ABP: 802
+Comparações AVL: 658
+
+Frase: Davis is funny , charming and quirky in her feature film acting debut as Amy .	
+Escore: 0
+Comparações ABP: 394
+Comparações AVL: 328
+
+Frase: An uncomfortable movie , suffocating and sometimes almost senseless , The Grey Zone does have a center , though a morbid one .	
+Escore: -2
+Comparações ABP: 480
+Comparações AVL: 436
+
+Frase: The lousy John Q all but spits out Denzel Washington 's fine performance in the title role .	
+Escore: 0
+Comparações ABP: 418
+Comparações AVL: 402
+
+Frase: So devoid of pleasure or sensuality that it can not even be dubbed hedonistic .	
+Escore: -1
+Comparações ABP: 400
+Comparações AVL: 334
+
+Frase: Satin Rouge is not a new , or inventive , journey , but it 's encouraging to see a three-dimensional , average , middle-aged woman 's experience of self-discovery handled with such sensitivity .	
+Escore: 0
+Comparações ABP: 710
+Comparações AVL: 660
+
+Frase: A pointed , often tender , examination of the pros and cons of unconditional love and familial duties .	
+Escore: 3
+Comparações ABP: 514
+Comparações AVL: 364
+
+Frase: Another trumpet blast that there may be a New Mexican Cinema a-bornin ' . '	
+Escore: 1
+Comparações ABP: 256
+Comparações AVL: 292
+
+Frase: Gorgeous to look at but insufferably tedious and turgid ... a curiously constricted epic .	
+Escore: -1
+Comparações ABP: 352
+Comparações AVL: 308
+
+Frase: Only about as sexy and dangerous as an actress in a role that reminds at every turn of Elizabeth Berkley 's flopping dolphin-gasm .	
+Escore: 0
+Comparações ABP: 604
+Comparações AVL: 530
+
+Frase: Their contrast is neither dramatic nor comic -- it 's just a weird fizzle .	
+Escore: 0
+Comparações ABP: 358
+Comparações AVL: 342
+
+Frase: Collateral Damage is trash , but it earns extra points by acting as if it were n't .	
+Escore: 0
+Comparações ABP: 446
+Comparações AVL: 408
+
+Frase: When you think you 've figured out Bielinsky 's great game , that 's when you 're in the most trouble : He 's the con , and you 're just the mark .	
+Escore: 0
+Comparações ABP: 756
+Comparações AVL: 698
+
+Frase: Swimming is above all about a young woman 's face , and by casting an actress whose face projects that woman 's doubts and yearnings , it succeeds .	
+Escore: 1
+Comparações ABP: 642
+Comparações AVL: 602
+
+Frase: It 's packed to bursting with incident , and with scores of characters , some fictional , some from history .	
+Escore: -1
+Comparações ABP: 438
+Comparações AVL: 396
+
+Frase: You want to call Domino 's .	
+Escore: 0
+Comparações ABP: 134
+Comparações AVL: 154
+
+Frase: The umpteenth summer skinny dip in Jerry Bruckheimer 's putrid pond of retread action twaddle .	
+Escore: 0
+Comparações ABP: 406
+Comparações AVL: 356
+
+Frase: `` the road paved with good intentions leads to the video store ''	
+Escore: 1
+Comparações ABP: 324
+Comparações AVL: 284
+
+Frase: Chris Columbus ' sequel is faster , livelier and a good deal funnier than his original .	
+Escore: 0
+Comparações ABP: 352
+Comparações AVL: 328
+
+Frase: Full of flatulence jokes and mild sexual references , Kung Pow !	
+Escore: 0
+Comparações ABP: 258
+Comparações AVL: 246
+
+Frase: The whole affair is as predictable as can be .	
+Escore: 0
+Comparações ABP: 248
+Comparações AVL: 226
+
+Frase: The film is a very good viewing alternative for young women .	
+Escore: 0
+Comparações ABP: 276
+Comparações AVL: 264
+
+Frase: To those who have not read the book , the film is a much better mother-daughter tale than last summer 's ` Divine Secrets of the Ya-Ya Sisterhood , ' but that 's not saying much .	
+Escore: 0
+Comparações ABP: 854
+Comparações AVL: 770
+
+Frase: But it also has many of the things that made the first one charming .	
+Escore: 0
+Comparações ABP: 424
+Comparações AVL: 338
+
+Frase: Sheridan	
+Escore: 0
+Comparações ABP: 26
+Comparações AVL: 42
+
+Frase: This slight premise ... works because of the ideal casting of the masterful British actor Ian Holm as the aged Napoleon .	
+Escore: 0
+Comparações ABP: 506
+Comparações AVL: 474
+
+Frase: But never mind all that ; the boobs are fantasti	
+Escore: 0
+Comparações ABP: 252
+Comparações AVL: 220
+
+Frase: About Schmidt is Nicholson 's goofy , heartfelt , mesmerizing King Lear .	
+Escore: 0
+Comparações ABP: 202
+Comparações AVL: 238
+
+Frase: It is most of the things Costner movies are known for ; it 's sanctimonious , self-righteous and so eager to earn our love that you want to slap it .	
+Escore: 1
+Comparações ABP: 764
+Comparações AVL: 656
+
+Frase: This is a very funny , heartwarming film .	
+Escore: 0
+Comparações ABP: 176
+Comparações AVL: 172
+
+Frase: It 's a piece of handiwork that shows its indie tatters and self-conscious seams in places , but has some quietly moving moments and an intelligent subtlety .	
+Escore: 0
+Comparações ABP: 740
+Comparações AVL: 604
+
+Frase: I was amused and entertained by the unfolding of Bielinsky 's cleverly constructed scenario , and greatly impressed by the skill of the actors involved in the enterprise .	
+Escore: 0
+Comparações ABP: 774
+Comparações AVL: 640
+
+Frase: For most of the distance the picture provides a satisfyingly unsettling ride into the dark places of our national psyche .	
+Escore: 0
+Comparações ABP: 620
+Comparações AVL: 482
+
+Frase: With very little to add beyond the dark visions already relayed by superb recent predecessors like Swimming With Sharks and The Player , this latest skewering ... may put off insiders and outsiders alike .	
+Escore: 1
+Comparações ABP: 870
+Comparações AVL: 736
+
+Frase: Being unique does n't necessarily equate to being good , no matter how admirably the filmmakers have gone for broke .	
+Escore: -1
+Comparações ABP: 556
+Comparações AVL: 454
+
+Frase: The respective charms of Sandra Bullock and Hugh Grant have worn threadbare .	
+Escore: 0
+Comparações ABP: 298
+Comparações AVL: 284
+
+Frase: Like the Hanks character , he 's a slow study : The action is stilted and the tabloid energy embalmed .	
+Escore: 0
+Comparações ABP: 472
+Comparações AVL: 412
+
+Frase: ... enthusiastically invokes the percussion rhythm , the brass soul and the sense of fierce competition that helps make great marching bands half the fun of college football games .	
+Escore: 0
+Comparações ABP: 786
+Comparações AVL: 644
+
+Frase: What 's invigorating about it is that it does n't give a damn .	
+Escore: 0
+Comparações ABP: 350
+Comparações AVL: 340
+
+Frase: Cacoyannis is perhaps too effective in creating an atmosphere of dust-caked stagnation and labored gentility .	
+Escore: 0
+Comparações ABP: 456
+Comparações AVL: 368
+
+Frase: An entertaining , if ultimately minor , thriller .	
+Escore: 0
+Comparações ABP: 166
+Comparações AVL: 156
+
+Frase: The real star of this movie is the score , as in the songs translate well to film , and it 's really well directed .	
+Escore: 2
+Comparações ABP: 638
+Comparações AVL: 546
+
+Frase: Punitively affirmational parable .	
+Escore: 0
+Comparações ABP: 78
+Comparações AVL: 88
+
+Frase: Demme finally succeeds in diminishing his stature from Oscar-winning master to lowly studio hack .	
+Escore: 1
+Comparações ABP: 336
+Comparações AVL: 316
+
+Frase: Horrid little propaganda film with fascinating connections not only to the Serbs themselves but also to a network of American right-wing extremists .	
+Escore: 0
+Comparações ABP: 630
+Comparações AVL: 520
+
+Frase: Star\/producer Salma Hayek and director Julie Taymor have infused Frida with a visual style unique and inherent to the titular character 's paintings and in the process created a masterful work of art of their own .	
+Escore: 1
+Comparações ABP: 980
+Comparações AVL: 854
+
+Frase: This one is not nearly as dreadful as expected .	
+Escore: 0
+Comparações ABP: 276
+Comparações AVL: 228
+
+Frase: But ... in trying to capture the novel 's deeper intimate resonances , the film has -- ironically - distanced us from the characters .	
+Escore: 0
+Comparações ABP: 592
+Comparações AVL: 516
+
+Frase: Real Women Have Curves wears its empowerment on its sleeve but even its worst harangues are easy to swallow thanks to remarkable performances by Ferrera and Ontiveros .	
+Escore: 1
+Comparações ABP: 672
+Comparações AVL: 632
+
+Frase: There 's a whole heap of nothing at the core of this slight coming-of-age\/coming-out tale .	
+Escore: 0
+Comparações ABP: 430
+Comparações AVL: 390
+
+Frase: A sensitive , moving , brilliantly constructed work .	
+Escore: 1
+Comparações ABP: 154
+Comparações AVL: 152
+
+Frase: It pulls the rug out from under you , just when you 're ready to hate one character , or really sympathize with another character , something happens to send you off in different direction .	
+Escore: 0
+Comparações ABP: 856
+Comparações AVL: 734
+
+Frase: The art direction is often exquisite , and the anthropomorphic animal characters are beautifully realized through clever makeup design , leaving one to hope that the eventual DVD release will offer subtitles and the original Italian-language soundtrack .	
+Escore: 0
+Comparações ABP: 996
+Comparações AVL: 812
+
+Frase: It 's probably not easy to make such a worthless film ...	
+Escore: 0
+Comparações ABP: 306
+Comparações AVL: 270
+
+Frase: The creative animation work may not look as fully ` rendered ' as Pixar 's industry standard , but it uses lighting effects and innovative backgrounds to an equally impressive degree .	
+Escore: 2
+Comparações ABP: 834
+Comparações AVL: 670
+
+Frase: An often unfunny romp .	
+Escore: 0
+Comparações ABP: 110
+Comparações AVL: 108
+
+Frase: It makes sense that he went back to school to check out the girls -- his film is a frat boy 's idea of a good time .	
+Escore: 0
+Comparações ABP: 670
+Comparações AVL: 632
+
+Frase: Clever but not especially compelling .	
+Escore: 0
+Comparações ABP: 140
+Comparações AVL: 134
+
+Frase: An EXIT sign , that is .	
+Escore: 0
+Comparações ABP: 114
+Comparações AVL: 134
+
+Frase: It 's an actor 's showcase that accomplishes its primary goal without the use of special effects , but rather by emphasizing the characters -- including the supporting ones .	
+Escore: 1
+Comparações ABP: 770
+Comparações AVL: 650
+
+Frase: The Emperor 's Club , ruthless in its own placid way , finds one of our most conservative and hidebound movie-making traditions and gives it new texture , new relevance , new reality .	
+Escore: 0
+Comparações ABP: 830
+Comparações AVL: 680
+
+Frase: ... if it had been only half-an-hour long or a TV special , the humor would have been fast and furious -- at ninety minutes , it drags .	
+Escore: -1
+Comparações ABP: 648
+Comparações AVL: 588
+
+Frase: Its compelling mix of trial movie , escape movie and unexpected fable ensures the film never feels draggy .	
+Escore: 0
+Comparações ABP: 520
+Comparações AVL: 400
+
+Frase: It drowns in sap .	
+Escore: 0
+Comparações ABP: 108
+Comparações AVL: 110
+
+Frase: ` Rare Birds ' tries to force its quirkiness upon the audience .	
+Escore: 0
+Comparações ABP: 270
+Comparações AVL: 266
+
+Frase: A solid and refined piece of moviemaking imbued with passion and attitude .	
+Escore: 1
+Comparações ABP: 364
+Comparações AVL: 294
+
+Frase: `` Red Dragon '' never cuts corners .	
+Escore: 0
+Comparações ABP: 142
+Comparações AVL: 156
+
+Frase: modeled	
+Escore: 0
+Comparações ABP: 42
+Comparações AVL: 44
+
+Frase: Alternative medicine obviously has its merits ... but Ayurveda does the field no favors .	
+Escore: 0
+Comparações ABP: 352
+Comparações AVL: 314
+
+Frase: Bland but harmless .	
+Escore: 0
+Comparações ABP: 76
+Comparações AVL: 84
+
+Frase: Viewers are asked so often to suspend belief that were it not for Holm 's performance , the film would be a total washout .	
+Escore: 0
+Comparações ABP: 596
+Comparações AVL: 552
+
+Frase: A small fortune in salaries and stunt cars might have been saved if the director , Tom Dey , had spliced together bits and pieces of Midnight Run and 48 Hours -LRB- and , for that matter , Shrek -RRB- .	
+Escore: 0
+Comparações ABP: 906
+Comparações AVL: 830
+
+Frase: It 's good to see Michael Caine whipping out the dirty words and punching people in the stomach again .	
+Escore: -1
+Comparações ABP: 472
+Comparações AVL: 444
+
+Frase: No Such Thing breaks no new ground and treads old turf like a hippopotamus ballerina .	
+Escore: 1
+Comparações ABP: 362
+Comparações AVL: 348
+
+Frase: The film exudes the urbane sweetness that Woody Allen seems to have bitterly forsaken .	
+Escore: -1
+Comparações ABP: 330
+Comparações AVL: 328
+
+Frase: The script is a dim-witted pairing of teen-speak and animal gibberish .	
+Escore: 0
+Comparações ABP: 314
+Comparações AVL: 268
+
+Frase: Cedar somewhat defuses this provocative theme by submerging it in a hoary love triangle .	
+Escore: 1
+Comparações ABP: 386
+Comparações AVL: 340
+
+Frase: What might have emerged as hilarious lunacy in the hands of Woody Allen or Mel Brooks -LRB- at least during their '70s heyday -RRB- comes across as lame and sophomoric in this debut indie feature .	
+Escore: -1
+Comparações ABP: 922
+Comparações AVL: 802
+
+Frase: I have not been this disappointed by a movie in a long time .	
+Escore: 0
+Comparações ABP: 338
+Comparações AVL: 310
+
+Frase: There 's not a comedic moment in this romantic comedy .	
+Escore: 0
+Comparações ABP: 266
+Comparações AVL: 252
+
+Frase: I admire it and yet can not recommend it , because it overstays its natural running time .	
+Escore: 0
+Comparações ABP: 420
+Comparações AVL: 386
+
+Frase: There 's plenty to enjoy -- in no small part thanks to Lau .	
+Escore: 0
+Comparações ABP: 352
+Comparações AVL: 316
+
+Frase: Action - mechanical .	
+Escore: 0
+Comparações ABP: 72
+Comparações AVL: 86
+
